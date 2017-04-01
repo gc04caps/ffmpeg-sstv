@@ -1,0 +1,1003 @@
+{
+	"1": {
+		"channel_id": "1",
+		"img": "https://iptvguide.netlify.com/img/ESPNNews.png",
+		"items": [
+			{"category": "Tennis", "channel": "1", "description": "", "end_time": "2017-03-31 21:00:00", "id": "181707", "language": "us", "name": "Tennis: ATP Miami, 2nd Semifinal", "network_id": "4899", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-03-31 19:00:00", "timered": "1", "version": "01 (US) ; 113 (UK)"},
+			{"category": "WorldFootball", "channel": "1", "description": "", "end_time": "2017-04-01 09:30:00", "id": "181827", "language": "us", "name": "EPL: Liverpool vs Everton", "network_id": "4914", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 07:30:00", "timered": "1", "version": "01 (720P / US) ; 113 (UK) ; 15 (720P / CA) ; 11 (HQLQ / US) ; 17 (HQLQ / CA)"},
+			{"category": "WorldFootball", "channel": "1", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181834", "language": "us", "name": "EPL: Chelsea vs Crystal Palace", "network_id": "4914", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "01 (720P / US) ; 78 (720P / CA) ; 21 (HQLQ / CA) ; 11 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "1", "description": "", "end_time": "2017-04-02 10:30:00", "id": "181944", "language": "us", "name": "EPL: Swansea City vs Middlesbrough", "network_id": "4914", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "01 (720P / US) ; 19 (HQLQ / CA) ; 11 (HQLQ / US) ; 113 (UK) ; 76 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "1", "description": "", "end_time": "2017-04-02 13:00:00", "id": "181949", "language": "us", "name": "EPL: Arsenal vs Manchester City", "network_id": "4914", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-02 11:00:00", "version": "01 (720P / US) ; 76 (720P / CA) ; 113 (UK) ; 19 (HQLQ / CA) ; 11 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "1", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182194", "language": "ca", "name": "1.BL: Hoffenheim vs Bayern M&uuml;nchen", "network_id": "4913", "parent_id": "182193", "quality": "720p", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "91 (DE) ; 05 (HQLQ / US) ; 17 (CA)"}
+		],
+		"name": "ESPNNews"
+	},
+	"10": {
+		"channel_id": "10",
+		"img": "https://iptvguide.netlify.com/img/NHLNetwork.png",
+		"items": [
+			{"category": "NHL", "channel": "10", "description": "Team San Jose Sharks playing against team Calgary Flames", "end_time": "2017-04-01 00:00:00", "id": "182164", "language": "us", "name": "NHL: San Jose Sharks at Calgary Flames", "network_id": "6057", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 21:00:00", "version": null},
+			{"category": "NHL", "channel": "10", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181868", "language": "us", "name": "NHL: Dallas Stars at Carolina Hurricanes", "network_id": "6057", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 19:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "10", "description": "", "end_time": "2017-04-02 11:30:00", "id": "181643", "language": "us", "name": "1.BL: Ingolstadt vs Mainz 05", "network_id": "4913", "parent_id": "181642", "quality": "720p", "runtime": "120", "time": "2017-04-02 09:30:00", "version": "05 (HQLQ / US) ; 89 (DE)"},
+			{"category": "NASCAR", "channel": "10", "description": "", "end_time": "2017-04-02 14:00:00", "id": "181667", "language": "us", "name": "NASCAR Cup Series: STP 500, Prerace", "network_id": "4913", "parent_id": "181666", "quality": "720p", "runtime": "90", "time": "2017-04-02 12:30:00", "version": "05 (HQLQ / US)"},
+			{"category": "NASCAR", "channel": "10", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181661", "language": "us", "name": "NASCAR Cup Series: STP 500", "network_id": "4913", "parent_id": "181660", "quality": "720p", "runtime": "240", "time": "2017-04-02 14:00:00", "version": "21 (HQLQ / CA) ; 05 (HQLQ / US) ; 107 (UK) ; 89 (DE) ; 78 (720P / CA)"},
+			{"category": "NHL", "channel": "10", "description": "Team Washington Capitals playing against team Columbus Blue Jackets", "end_time": "2017-04-02 21:00:00", "id": "182134", "language": "us", "name": "NHL: Washington Capitals at Columbus Blue Jackets", "network_id": "6054", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null}
+		],
+		"name": "NHL Network"
+	},
+	"100": {
+		"channel_id": "100",
+		"img": "https://iptvguide.netlify.com/img/WillowCricket.png",
+		"items": [
+			{"category": "Cricket", "channel": "100", "description": "", "end_time": "2017-04-01 16:00:00", "id": "181941", "language": "uk", "name": "T20 International Cricket: West Indies v Pakistan", "network_id": "6624", "parent_id": "0", "quality": "", "runtime": "210", "time": "2017-04-01 12:30:00", "version": null},
+			{"category": "Cricket", "channel": "100", "description": "", "end_time": "2017-04-02 16:00:00", "id": "181942", "language": "uk", "name": "T20 International Cricket: West Indies v Pakistan", "network_id": "6624", "parent_id": "0", "quality": "", "runtime": "210", "time": "2017-04-02 12:30:00", "version": null}
+		],
+		"name": "Willow Cricket"
+	},
+	"107": {
+		"channel_id": "107",
+		"img": "https://iptvguide.netlify.com/img/PremierHD.png",
+		"items": [
+			{"category": "Rugby", "channel": "107", "description": "", "end_time": "2017-04-01 02:00:00", "id": "181928", "language": "uk", "name": "NRL: Sharks v Knights", "network_id": "6140", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 00:00:00", "version": null},
+			{"category": "Rugby", "channel": "107", "description": "", "end_time": "2017-04-01 04:30:00", "id": "181929", "language": "uk", "name": "NRL: Raiders v Eels", "network_id": "6140", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 02:30:00", "version": null},
+			{"category": "Rugby", "channel": "107", "description": "", "end_time": "2017-04-01 06:30:00", "id": "181930", "language": "uk", "name": "NRL: Storm v Panthers", "network_id": "6140", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 04:30:00", "version": "107 (UK) ; 49 (HQLQ / US) ; 81 (720P / US)"},
+			{"category": "Rugby", "channel": "107", "description": "", "end_time": "2017-04-02 02:00:00", "id": "181933", "language": "uk", "name": "NRL: Warriors v Titans", "network_id": "6140", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-02 00:00:00", "version": "107 (UK) ; 06 (US)"},
+			{"category": "Rugby", "channel": "107", "description": "", "end_time": "2017-04-02 04:00:00", "id": "181935", "language": "uk", "name": "NRL: Tigers v Dragons", "network_id": "6140", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-02 02:00:00", "version": null},
+			{"category": "NASCAR", "channel": "107", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181665", "language": "uk", "name": "NASCAR Cup Series: STP 500", "network_id": "6199", "parent_id": "181660", "quality": "720p", "runtime": "240", "time": "2017-04-02 14:00:00", "version": "21 (HQLQ / CA) ; 05 (HQLQ / US) ; 10 (720P / US) ; 89 (DE) ; 78 (720P / CA)"}
+		],
+		"name": "Premier HD"
+	},
+	"108": {
+		"channel_id": "108",
+		"img": "https://iptvguide.netlify.com/img/BTSport1HD.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "108", "description": "", "end_time": "2017-04-02 14:30:00", "id": "180841", "language": "uk", "name": "European Football Show", "network_id": "3514", "parent_id": "0", "quality": "720p", "runtime": "60", "time": "2017-04-02 13:30:00", "version": null}
+		],
+		"name": "BT Sport 1 HD"
+	},
+	"11": {
+		"channel_id": "11",
+		"img": "https://iptvguide.netlify.com/img/NBCSN.png",
+		"items": [
+			{"category": "NHL", "channel": "11", "description": "Team Washington Capitals playing against team Arizona Coyotes", "end_time": "2017-04-01 01:00:00", "id": "182167", "language": "us", "name": "NHL: Washington Capitals at Arizona Coyotes", "network_id": "6060", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 22:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "11", "description": "", "end_time": "2017-04-01 09:30:00", "id": "181828", "language": "us", "name": "EPL: Liverpool vs Everton", "network_id": "5385", "parent_id": "181827", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 07:30:00", "version": "113 (UK) ; 15 (720P / CA) ; 17 (HQLQ / CA) ; 01 (720P / US)"},
+			{"category": "WorldFootball", "channel": "11", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181836", "language": "us", "name": "EPL: Chelsea vs Crystal Palace", "network_id": "5385", "parent_id": "181834", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "01 (720P / US) ; 78 (720P / CA) ; 21 (HQLQ / CA)"},
+			{"category": "GeneralTV", "channel": "11", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181728", "language": "us", "name": "Figure Skating WC: Helsinki, Men's Free Program", "network_id": "5385", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": null},
+			{"category": "GeneralTV", "channel": "11", "description": "", "end_time": "2017-04-01 16:30:00", "id": "181729", "language": "us", "name": "Figure Skating WC: Helsinki, Free Dance", "network_id": "5385", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 14:30:00", "version": null},
+			{"category": "Curling", "channel": "11", "description": "", "end_time": "2017-04-02 00:00:00", "id": "181730", "language": "us", "name": "World Men's Curling Championship: USA vs Switzerland", "network_id": "5385", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 21:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "11", "description": "", "end_time": "2017-04-02 10:30:00", "id": "181945", "language": "uk", "name": "EPL: Swansea City vs Middlesbrough", "network_id": "5385", "parent_id": "181944", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "19 (HQLQ / CA) ; 113 (UK) ; 01 (720P / US) ; 76 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "11", "description": "", "end_time": "2017-04-02 13:00:00", "id": "181951", "language": "us", "name": "EPL: Arsenal vs Manchester City", "network_id": "5385", "parent_id": "181949", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 11:00:00", "version": "76 (720P / CA) ; 113 (UK) ; 19 (HQLQ / CA) ; 01 (720P / US)"},
+			{"category": "GeneralTV", "channel": "11", "description": "", "end_time": "2017-04-02 15:30:00", "id": "181731", "language": "us", "name": "Figure Skating: Helsinki, Exhibition", "network_id": "5385", "parent_id": "0", "quality": "", "runtime": "90", "time": "2017-04-02 14:00:00", "version": null},
+			{"category": "NHL", "channel": "11", "description": "Team Philadelphia Flyers playing against team NY Rangers Rangers", "end_time": "2017-04-02 22:30:00", "id": "182130", "language": "us", "name": "NHL: Philadelphia Flyers at NY Rangers Rangers", "network_id": "5385", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 19:30:00", "version": "11 (HQLQ / US) ; 70 (720P / US)"},
+			{"category": "Curling", "channel": "11", "description": "", "end_time": "2017-04-04 00:00:00", "id": "182052", "language": "us", "name": "World Men's Curling Championship: Canada vs USA", "network_id": "5385", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-03 21:00:00", "version": "11 (US) ; 21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "NBA", "channel": "11", "description": "NBA: Washington Wizards at Houston Rockets", "end_time": "2018-01-02 23:00:00", "id": "165997", "language": "us", "name": "NBA: Washington Wizards at Houston Rockets", "network_id": "6218", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 20:00:00", "version": "11 (HQLQ / US) ; 31 (720P / US)"}
+		],
+		"name": "NBC SN"
+	},
+	"113": {
+		"channel_id": "113",
+		"img": "https://iptvguide.netlify.com/img/SkySports1UK.png",
+		"items": [
+			{"category": "Tennis", "channel": "113", "description": "", "end_time": "2017-03-31 21:00:00", "id": "181709", "language": "uk", "name": "Tennis: ATP Miami, 2nd Semifinal", "network_id": "3503", "parent_id": "181707", "quality": "", "runtime": "120", "time": "2017-03-31 19:00:00", "version": "01 (US)"},
+			{"category": "WorldFootball", "channel": "113", "description": "", "end_time": "2017-04-01 09:30:00", "id": "181831", "language": "uk", "name": "EPL: Liverpool vs Everton", "network_id": "3503", "parent_id": "181827", "quality": "", "runtime": "120", "time": "2017-04-01 07:30:00", "version": "15 (720P / CA) ; 11 (HQLQ / US) ; 17 (HQLQ / CA) ; 01 (720P / US)"},
+			{"category": "WorldFootball", "channel": "113", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181901", "language": "uk", "name": "EFL:  Reading vs Leeds United", "network_id": "3503", "parent_id": "181900", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "63 (US)"},
+			{"category": "WorldFootball", "channel": "113", "description": "", "end_time": "2017-04-02 10:30:00", "id": "181948", "language": "uk", "name": "EPL: Swansea City vs Middlesbrough", "network_id": "3503", "parent_id": "181944", "quality": "", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "19 (HQLQ / CA) ; 11 (HQLQ / US) ; 01 (720P / US) ; 76 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "113", "description": "", "end_time": "2017-04-02 13:00:00", "id": "181952", "language": "uk", "name": "EPL: Arsenal vs Manchester City", "network_id": "3503", "parent_id": "181949", "quality": "", "runtime": "120", "time": "2017-04-02 11:00:00", "version": "76 (720P / CA) ; 19 (HQLQ / CA) ; 11 (HQLQ / US) ; 01 (720P / US)"},
+			{"category": "WorldFootball", "channel": "113", "description": "", "end_time": "2017-04-02 16:45:00", "id": "181966", "language": "uk", "name": "La Liga: Granada vs Barcelona", "network_id": "3503", "parent_id": "181963", "quality": "", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "23 (HQLQ / ES) ; 72 (720P / ES) ; 46 (HQLQ / US) ; 39 (720P / US)"}
+		],
+		"name": "Sky Sports 1 UK"
+	},
+	"114": {
+		"channel_id": "114",
+		"img": "https://iptvguide.netlify.com/img/SkySports2UK.png",
+		"items": [
+			{"category": "Rugby", "channel": "114", "description": "", "end_time": "2017-04-01 02:15:00", "id": "182014", "language": "uk", "name": "Super Rugby: Blues v Western Force", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 00:15:00", "version": null},
+			{"category": "Rugby", "channel": "114", "description": "", "end_time": "2017-04-01 04:30:00", "id": "182015", "language": "uk", "name": "Super Rugby: Chiefs v Bulls", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 02:30:00", "version": null},
+			{"category": "Rugby", "channel": "114", "description": "", "end_time": "2017-04-01 06:45:00", "id": "182016", "language": "uk", "name": "Super Rugby: Reds v Hurricanes", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 04:45:00", "version": null},
+			{"category": "WorldFootball", "channel": "114", "description": "", "end_time": "2017-04-01 09:00:00", "id": "181875", "language": "uk", "name": "La Liga: Villarreal vs Eibar", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 07:00:00", "version": "114 (UK) ; 62 (US)"},
+			{"category": "Rugby", "channel": "114", "description": "", "end_time": "2017-04-01 14:30:00", "id": "182021", "language": "uk", "name": "European Champions Cup Rugby: Munster v Toulouse", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "114 (UK) ; 17 (HQLQ / CA) ; 15 (720P / CA)"},
+			{"category": "Rugby", "channel": "114", "description": "", "end_time": "2017-04-01 17:00:00", "id": "182022", "language": "uk", "name": "European Challenge Cup Rugby: Gloucester v Cardiff Blues", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "114 (UK) ; 17 (HQLQ / CA) ; 15 (720P / CA)"},
+			{"category": "Rugby", "channel": "114", "description": "", "end_time": "2017-04-02 04:00:00", "id": "182034", "language": "uk", "name": "Super Rugby: Waratahs v Crusaders", "network_id": "3504", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 02:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "114", "description": "", "end_time": "2017-04-02 09:30:00", "id": "182113", "language": "uk", "name": "SPL: Hearts vs Celtic", "network_id": "3504", "parent_id": "182111", "quality": "", "runtime": "120", "time": "2017-04-02 07:30:00", "version": "47 (HQLQ / US) ; 79 (720P / US)"},
+			{"category": "WorldFootball", "channel": "114", "description": "", "end_time": "2017-04-02 12:15:00", "id": "181959", "language": "uk", "name": "La Liga: Real Madrid vs Deportivo Alav&eacute;s", "network_id": "3504", "parent_id": "181955", "quality": "", "runtime": "120", "time": "2017-04-02 10:15:00", "version": "23 (HQLQ / ES) ; 46 (HQLQ / US) ; 72 (720P / ES) ; 39 (720P / US)"},
+			{"category": "WorldFootball", "channel": "114", "description": "", "end_time": "2017-04-02 14:30:00", "id": "181961", "language": "uk", "name": "La Liga: Valencia vs Deportivo La Coru&ntilde;a", "network_id": "3504", "parent_id": "181960", "quality": "", "runtime": "120", "time": "2017-04-02 12:30:00", "version": "72 (720P / ES) ; 23 (HQLQ / ES)"}
+		],
+		"name": "Sky Sports 2 UK"
+	},
+	"115": {
+		"channel_id": "115",
+		"img": "https://iptvguide.netlify.com/img/SkySports3UK.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "115", "description": "", "end_time": "2017-04-01 09:30:00", "id": "181909", "language": "uk", "name": "CSL: Guangzhou Evergrande vs Shanghai SIPG", "network_id": "3505", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 07:30:00", "version": null},
+			{"category": "Rugby", "channel": "115", "description": "", "end_time": "2017-04-01 14:00:00", "id": "182025", "language": "uk", "name": "Super League Rugby: Catalans Dragons v Wakefield Trinity", "network_id": "3505", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 12:00:00", "version": "115 (UK) ; 47 (HQLQ / US) ; 79 (720P / US)"},
+			{"category": "WorldFootball", "channel": "115", "description": "", "end_time": "2017-04-02 08:00:00", "id": "181954", "language": "uk", "name": "La Liga: Sevilla vs Sporting Gij&oacute;n", "network_id": "3505", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 06:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "115", "description": "", "end_time": "2017-04-02 11:30:00", "id": "182110", "language": "uk", "name": "EFL Trophy: Coventry City vs Oxford United", "network_id": "3505", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 09:30:00", "version": null},
+			{"category": "Tennis", "channel": "115", "description": "", "end_time": "2017-04-02 15:30:00", "id": "181719", "language": "uk", "name": "Tennis: ATP Miami Final", "network_id": "3505", "parent_id": "181716", "quality": "", "runtime": "150", "time": "2017-04-02 13:00:00", "version": "04 (720P / US) ; 16 (CA) ; 03 (HQLQ / US)"}
+		],
+		"name": "Sky Sports 3 UK"
+	},
+	"116": {
+		"channel_id": "116",
+		"img": "https://iptvguide.netlify.com/img/SkySports4UK.png",
+		"items": [
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-03-31 19:00:00", "id": "181822", "language": "us", "name": "PGA Tour: Shell Houston Open, Round 2", "network_id": "3506", "parent_id": "181821", "quality": "", "runtime": "180", "time": "2017-03-31 16:00:00", "version": "12 (US)"},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-03-31 21:00:00", "id": "181824", "language": "uk", "name": "LPGA Tour: ANA Inspiration Major Championship, Round 2", "network_id": "6107", "parent_id": "181823", "quality": "", "runtime": "120", "time": "2017-03-31 19:00:00", "version": "12 (US)"},
+			{"category": "Rugby", "channel": "116", "description": "", "end_time": "2017-04-01 11:00:00", "id": "182018", "language": "uk", "name": "Super Rugby: Stormers v Cheetahs", "network_id": "3506", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 09:00:00", "version": null},
+			{"category": "Rugby", "channel": "116", "description": "", "end_time": "2017-04-01 13:00:00", "id": "182019", "language": "uk", "name": "Super Rugby: Lions v Sharks", "network_id": "3506", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 11:00:00", "version": null},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-04-01 15:00:00", "id": "181878", "language": "us", "name": "PGA Tour: Shell Houston Open, Round 3", "network_id": "3506", "parent_id": "181877", "quality": "", "runtime": "120", "time": "2017-04-01 13:00:00", "version": "12 (US)"},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-04-01 18:00:00", "id": "181880", "language": "us", "name": "PGA Tour: Shell Houston Open, Round 3", "network_id": "3506", "parent_id": "181879", "quality": "", "runtime": "180", "time": "2017-04-01 15:00:00", "version": "34 (US)"},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-04-01 21:00:00", "id": "181884", "language": "uk", "name": "LPGA Tour: ANA Inspiration Major Championship, Round 3", "network_id": "3506", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 18:00:00", "version": null},
+			{"category": "Rugby", "channel": "116", "description": "", "end_time": "2017-04-02 10:00:00", "id": "182035", "language": "uk", "name": "European Champions Cup Rugby: Saracens v Glasgow Warriors", "network_id": "3506", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 08:00:00", "version": "116 (UK) ; 17 (HQLQ / CA) ; 15 (720P / CA)"},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-04-02 15:00:00", "id": "181894", "language": "us", "name": "PGA Tour: Shell Houston Open, Final Round", "network_id": "3506", "parent_id": "181893", "quality": "", "runtime": "120", "time": "2017-04-02 13:00:00", "version": "12 (US)"},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181897", "language": "us", "name": "PGA Tour: Shell Houston Open, Final Round", "network_id": "3506", "parent_id": "181896", "quality": "", "runtime": "180", "time": "2017-04-02 15:00:00", "version": "34 (US)"},
+			{"category": "Golf", "channel": "116", "description": "", "end_time": "2017-04-02 21:00:00", "id": "181898", "language": "uk", "name": "LPGA Tour: ANA Inspiration Major Championship, Final Round", "network_id": "3506", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null}
+		],
+		"name": "Sky Sports 4 UK"
+	},
+	"117": {
+		"channel_id": "117",
+		"img": "https://iptvguide.netlify.com/img/SkySports5UK.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "117", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181882", "language": "uk", "name": "La Liga: Real Sociedad vs Legan&eacute;s", "network_id": "3507", "parent_id": "181881", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "23 (ES)"},
+			{"category": "WorldFootball", "channel": "117", "description": "", "end_time": "2017-04-01 16:45:00", "id": "181886", "language": "uk", "name": "La Liga:  M&aacute;laga vs Atl&eacute;tico Madrid", "network_id": "3507", "parent_id": "181885", "quality": "", "runtime": "120", "time": "2017-04-01 14:45:00", "version": "23 (ES)"},
+			{"category": "WorldFootball", "channel": "117", "description": "", "end_time": "2017-04-02 08:30:00", "id": "182094", "language": "uk", "name": "EDL: Vitesse vs NEC", "network_id": "3507", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 06:30:00", "version": "117 (UK) ; 90 (NL)"},
+			{"category": "WorldFootball", "channel": "117", "description": "", "end_time": "2017-04-02 10:30:00", "id": "182096", "language": "uk", "name": "EDL: Ajax vs Feyenoord", "network_id": "3507", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "117 (UK) ; 90 (NL)"}
+		],
+		"name": "Sky Sports 5 UK"
+	},
+	"12": {
+		"channel_id": "12",
+		"img": "https://iptvguide.netlify.com/img/GolfChannel.png",
+		"items": [
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-03-31 19:00:00", "id": "181821", "language": "us", "name": "PGA Tour: Shell Houston Open, Round 2", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-03-31 16:00:00", "timered": "1", "version": "12 (US) ; 116 (US)"},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-03-31 21:00:00", "id": "181823", "language": "us", "name": "LPGA Tour: ANA Inspiration Major Championship, Round 2", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-03-31 19:00:00", "timered": "1", "version": "12 (US) ; 116 (UK)"},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-03-31 23:30:00", "id": "181825", "language": "us", "name": "Champions Tour: Mississippi Gulf Resort Classic, Round 1", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-03-31 21:30:00", "version": null},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-04-01 15:00:00", "id": "181877", "language": "us", "name": "PGA Tour: Shell Houston Open, Round 3", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 13:00:00", "version": "12 (US) ; 116 (US)"},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181826", "language": "us", "name": "Champions Tour: Mississippi Gulf Resort Classic, Round 2", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 15:00:00", "version": null},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-04-01 21:00:00", "id": "181883", "language": "us", "name": "LPGA Tour: ANA Inspiration Major Championship, Round 3", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "240", "time": "2017-04-01 17:00:00", "version": null},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-04-02 15:00:00", "id": "181893", "language": "us", "name": "PGA Tour: Shell Houston Open, Final Round", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 13:00:00", "version": "12 (US) ; 116 (US)"},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-04-02 17:00:00", "id": "181902", "language": "us", "name": "Champions Tour: Mississippi Gulf Resort Classic, Final Round", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 15:00:00", "version": null},
+			{"category": "Golf", "channel": "12", "description": "", "end_time": "2017-04-02 21:00:00", "id": "181899", "language": "us", "name": "LPGA Tour: ANA Inspiration Major Championship, Final Round", "network_id": "5383", "parent_id": "0", "quality": "", "runtime": "240", "time": "2017-04-02 17:00:00", "version": null},
+			{"category": "NBA", "channel": "12", "description": "NBA: New Orleans Pelicans at Cleveland Cavaliers", "end_time": "2018-01-02 22:00:00", "id": "165992", "language": "us", "name": "NBA: New Orleans Pelicans at Cleveland Cavaliers", "network_id": "6213", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 19:00:00", "version": "12 (HQLQ / US) ; 32 (720P / US)"},
+			{"category": "NBA", "channel": "12", "description": "NBA: Denver Nuggets at Golden State Warriors", "end_time": "2018-01-03 01:30:00", "id": "165998", "language": "us", "name": "NBA: Denver Nuggets at Golden State Warriors", "network_id": "6223", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 22:30:00", "version": "12 (HQLQ / US) ; 32 (720P / US)"}
+		],
+		"name": "Golf Channel"
+	},
+	"13": {
+		"channel_id": "13",
+		"img": "https://iptvguide.netlify.com/img/TennisChannel.png",
+		"items": [
+			{"category": "NBA", "channel": "13", "description": "NBA: Washington Wizards at Utah Jazz", "end_time": "2017-04-01 00:00:00", "id": "182153", "language": "us", "name": "NBA: Washington Wizards at Utah Jazz", "network_id": "6225", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 21:00:00", "version": null},
+			{"category": "Tennis", "channel": "13", "description": "", "end_time": "2017-04-01 16:30:00", "id": "181715", "language": "us", "name": "Tennis: ATP Miami, Doubles Final", "network_id": "5382", "parent_id": "0", "quality": "", "runtime": "90", "time": "2017-04-01 15:00:00", "version": null},
+			{"category": "NBA", "channel": "13", "description": "", "end_time": "2017-04-01 23:00:00", "id": "181845", "language": "us", "name": "NBA: Sacramento Kings at Minnesota Timberwolves", "network_id": "6216", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 20:00:00", "version": null},
+			{"category": "NBA", "channel": "13", "description": "NBA: Dallas Mavericks at Milwaukee Bucks", "end_time": "2017-04-02 18:30:00", "id": "182117", "language": "us", "name": "NBA: Dallas Mavericks at Milwaukee Bucks", "network_id": "6214", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 15:30:00", "version": null},
+			{"category": "Tennis", "channel": "13", "description": "", "end_time": "2017-04-03 20:00:00", "id": "182053", "language": "us", "name": "Tennis: WTA Charleston, Early Round", "network_id": "5382", "parent_id": "0", "quality": "", "runtime": "480", "time": "2017-04-03 12:00:00", "version": "13 (US) ; 92 (UK)"},
+			{"category": "Tennis", "channel": "13", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182054", "language": "us", "name": "Tennis: WTA Charleston, Early Round", "network_id": "5382", "parent_id": "0", "quality": "", "runtime": "360", "time": "2017-04-04 10:00:00", "version": null},
+			{"category": "Tennis", "channel": "13", "description": "", "end_time": "2017-04-04 22:00:00", "id": "182055", "language": "us", "name": "Tennis: WTA Charleston, Early Round", "network_id": "5382", "parent_id": "0", "quality": "", "runtime": "360", "time": "2017-04-04 16:00:00", "version": null},
+			{"category": "NBA", "channel": "13", "description": "NBA: Phoenix Suns at Los Angeles Clippers", "end_time": "2018-01-03 01:30:00", "id": "165999", "language": "us", "name": "NBA: Phoenix Suns at Los Angeles Clippers", "network_id": "6221", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 22:30:00", "version": "13 (HQLQ / US) ; 33 (720P / US)"}
+		],
+		"name": "Tennis Channel"
+	},
+	"14": {
+		"channel_id": "14",
+		"img": "https://iptvguide.netlify.com/img/CBSSN.png",
+		"items": [
+			{"category": "NBA", "channel": "14", "description": "NBA: Detroit Pistons at Milwaukee Bucks", "end_time": "2017-03-31 23:00:00", "id": "182150", "language": "us", "name": "NBA: Detroit Pistons at Milwaukee Bucks", "network_id": "6217", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-03-31 20:00:00", "version": null},
+			{"category": "NHL", "channel": "14", "description": "Team Colorado Avalanche playing against team Minnesota Wild", "end_time": "2017-04-02 21:00:00", "id": "182135", "language": "us", "name": "NHL: Colorado Avalanche at Minnesota Wild", "network_id": "6059", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null},
+			{"category": "Golf", "channel": "14", "description": "", "end_time": "2017-04-03 14:00:00", "id": "182171", "language": "us", "name": "PGA Tour: Masters on the Range", "network_id": "5387", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-03 12:00:00", "version": null},
+			{"category": "Golf", "channel": "14", "description": "", "end_time": "2017-04-04 11:00:00", "id": "182172", "language": "us", "name": "PGA Tour: Masters on the Range", "network_id": "5387", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 09:00:00", "version": null},
+			{"category": "Golf", "channel": "14", "description": "", "end_time": "2017-04-05 11:00:00", "id": "182173", "language": "us", "name": "PGA Tour: Masters on the Range", "network_id": "5387", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-05 09:00:00", "version": null}
+		],
+		"name": "CBS SN"
+	},
+	"15": {
+		"channel_id": "15",
+		"img": "https://iptvguide.netlify.com/img/FightNetwork.png",
+		"items": [
+			{"category": "Wrestling", "channel": "15", "description": "", "end_time": "2017-03-31 20:00:00", "id": "182210", "language": "ca", "name": "WWE Hall of Fame Red Carpet", "network_id": "5969", "parent_id": "0", "quality": "720p", "runtime": "60", "time": "2017-03-31 19:00:00", "timered": "1", "version": "15 (720P / CA) ; 16 (HQLQ / CA)"},
+			{"category": "Wrestling", "channel": "15", "description": "", "end_time": "2017-03-31 23:00:00", "id": "182208", "language": "ca", "name": "WWE Hall of Fame", "network_id": "5969", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-03-31 20:00:00", "timered": "1", "version": "15 (720P / CA) ; 16 (HQLQ / CA)"},
+			{"category": "WorldFootball", "channel": "15", "description": "", "end_time": "2017-04-01 09:30:00", "id": "181829", "language": "ca", "name": "EPL: Liverpool vs Everton", "network_id": "5851", "parent_id": "181827", "quality": "720p", "runtime": "120", "time": "2017-04-01 07:30:00", "version": "113 (UK) ; 11 (HQLQ / US) ; 17 (HQLQ / CA) ; 01 (720P / US)"},
+			{"category": "Rugby", "channel": "15", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182028", "language": "ca", "name": "European Champions Cup Rugby: Leinster v Wasps", "network_id": "5851", "parent_id": "182020", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "17 (HQLQ / CA) ; 93 (UK)"},
+			{"category": "Rugby", "channel": "15", "description": "", "end_time": "2017-04-01 14:30:00", "id": "182030", "language": "ca", "name": "European Champions Cup Rugby: Munster v Toulouse", "network_id": "5851", "parent_id": "182021", "quality": "720p", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "17 (HQLQ / CA) ; 114 (UK)"},
+			{"category": "Rugby", "channel": "15", "description": "", "end_time": "2017-04-01 17:00:00", "id": "182175", "language": "ca", "name": "European Challenge Cup Rugby: Gloucester v Cardiff Blues", "network_id": "5851", "parent_id": "182022", "quality": "720p", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "17 (HQLQ / CA) ; 114 (UK)"},
+			{"category": "NHL", "channel": "15", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181858", "language": "us", "name": "NHL: Toronto Maple Leafs at Detroit Red Wings", "network_id": "5882", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "15 (720P / US) ; 16 (HQLQ / US)"},
+			{"category": "NHL", "channel": "15", "description": "", "end_time": "2017-04-02 01:00:00", "id": "181860", "language": "us", "name": "NHL: Anaheim Ducks at Edmonton Oilers", "network_id": "5882", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-04-01 22:00:00", "version": "15 (720P / US) ; 16 (HQLQ / US)"},
+			{"category": "Rugby", "channel": "15", "description": "", "end_time": "2017-04-02 10:00:00", "id": "182036", "language": "ca", "name": "European Champions Cup Rugby: Saracens v Glasgow Warriors", "network_id": "5851", "parent_id": "182035", "quality": "720p", "runtime": "120", "time": "2017-04-02 08:00:00", "version": "17 (HQLQ / CA) ; 116 (UK)"},
+			{"category": "Rugby", "channel": "15", "description": "", "end_time": "2017-04-02 12:00:00", "id": "182041", "language": "ca", "name": "European Champions Cup Rugby: Clermont Auvergne v Toulon", "network_id": "5851", "parent_id": "182039", "quality": "720p", "runtime": "120", "time": "2017-04-02 10:00:00", "version": "17 (HQLQ / CA) ; 92 (UK)"},
+			{"category": "Rugby", "channel": "15", "description": "", "end_time": "2017-04-02 14:30:00", "id": "182044", "language": "ca", "name": "European Challenge Cup Rugby: Ospreys v Stade Francais", "network_id": "5851", "parent_id": "182042", "quality": "720p", "runtime": "120", "time": "2017-04-02 12:30:00", "version": "17 (HQLQ / CA) ; 92 (UK)"},
+			{"category": "Wrestling", "channel": "15", "description": "", "end_time": "2017-04-04 21:00:00", "id": "181811", "language": "us", "name": "Wrestling: AAA Lucha Libre", "network_id": "5853", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-04-04 20:00:00", "version": null},
+			{"category": "Wrestling", "channel": "15", "description": "", "end_time": "2017-04-06 22:00:00", "id": "181974", "language": "us", "name": "Wrestling: TNA Impact", "network_id": "5853", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-06 20:00:00", "version": null},
+			{"category": "Wrestling", "channel": "15", "description": "", "end_time": "2017-04-11 21:00:00", "id": "181812", "language": "us", "name": "Wrestling: AAA Lucha Libre", "network_id": "5853", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-04-11 20:00:00", "version": null}
+		],
+		"name": "Fight Network"
+	},
+	"16": {
+		"channel_id": "16",
+		"img": "https://iptvguide.netlify.com/img/WWENetwork.png",
+		"items": [
+			{"category": "Wrestling", "channel": "16", "description": "", "end_time": "2017-03-31 20:00:00", "id": "182211", "language": "ca", "name": "WWE Hall of Fame Red Carpet", "network_id": "5969", "parent_id": "182210", "quality": "hqlq", "runtime": "60", "time": "2017-03-31 19:00:00", "timered": "1", "version": "15 (720P / CA)"},
+			{"category": "Wrestling", "channel": "16", "description": "", "end_time": "2017-03-31 23:00:00", "id": "182209", "language": "ca", "name": "WWE Hall of Fame", "network_id": "5969", "parent_id": "182208", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 20:00:00", "timered": "1", "version": "15 (720P / CA)"},
+			{"category": "NHL", "channel": "16", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181859", "language": "us", "name": "NHL: Toronto Maple Leafs at Detroit Red Wings", "network_id": "5882", "parent_id": "181858", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "15 (720P / US)"},
+			{"category": "NHL", "channel": "16", "description": "", "end_time": "2017-04-02 01:00:00", "id": "181861", "language": "us", "name": "NHL: Anaheim Ducks at Edmonton Oilers", "network_id": "5882", "parent_id": "181860", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 22:00:00", "version": "15 (720P / US)"},
+			{"category": "Tennis", "channel": "16", "description": "", "end_time": "2017-04-02 15:30:00", "id": "181718", "language": "ca", "name": "Tennis: ATP Miami Final", "network_id": "5860", "parent_id": "181716", "quality": "", "runtime": "150", "time": "2017-04-02 13:00:00", "version": "115 (UK) ; 04 (720P / US) ; 03 (HQLQ / US)"},
+			{"category": "Wrestling", "channel": "16", "description": "", "end_time": "2017-04-04 21:00:00", "id": "182005", "language": "us", "name": "WWE NXT", "network_id": "5969", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-04-04 20:00:00", "version": null},
+			{"category": "Wrestling", "channel": "16", "description": "", "end_time": "2017-04-11 21:00:00", "id": "182006", "language": "us", "name": "WWE NXT", "network_id": "5969", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-04-11 20:00:00", "version": null}
+		],
+		"name": "WWE Network"
+	},
+	"17": {
+		"channel_id": "17",
+		"img": "https://iptvguide.netlify.com/img/SportsnetWorld.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "17", "description": "", "end_time": "2017-03-31 21:30:00", "id": "181733", "language": "ca", "name": "MLS: Toronto FC vs Sporting Kansas City", "network_id": "5856", "parent_id": "181732", "quality": "", "runtime": "120", "time": "2017-03-31 19:30:00", "timered": "1", "version": "05 (US)"},
+			{"category": "WorldFootball", "channel": "17", "description": "", "end_time": "2017-04-01 09:30:00", "id": "181830", "language": "ca", "name": "EPL: Liverpool vs Everton", "network_id": "5851", "parent_id": "181827", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 07:30:00", "version": "113 (UK) ; 15 (720P / CA) ; 11 (HQLQ / US) ; 01 (720P / US)"},
+			{"category": "Rugby", "channel": "17", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182029", "language": "ca", "name": "European Champions Cup Rugby: Leinster v Wasps", "network_id": "5851", "parent_id": "182020", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "93 (UK) ; 15 (720P / CA)"},
+			{"category": "Rugby", "channel": "17", "description": "", "end_time": "2017-04-01 14:30:00", "id": "182031", "language": "ca", "name": "European Champions Cup Rugby: Munster v Toulouse", "network_id": "5851", "parent_id": "182021", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "15 (720P / CA) ; 114 (UK)"},
+			{"category": "Rugby", "channel": "17", "description": "", "end_time": "2017-04-01 17:00:00", "id": "182176", "language": "ca", "name": "European Challenge Cup Rugby: Gloucester v Cardiff Blues", "network_id": "5851", "parent_id": "182022", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "114 (UK) ; 15 (720P / CA)"},
+			{"category": "Rugby", "channel": "17", "description": "", "end_time": "2017-04-02 10:00:00", "id": "182037", "language": "ca", "name": "European Champions Cup Rugby: Saracens v Glasgow Warriors", "network_id": "5851", "parent_id": "182035", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 08:00:00", "version": "15 (720P / CA) ; 116 (UK)"},
+			{"category": "Rugby", "channel": "17", "description": "", "end_time": "2017-04-02 12:00:00", "id": "182040", "language": "ca", "name": "European Champions Cup Rugby: Clermont Auvergne v Toulon", "network_id": "5851", "parent_id": "182039", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 10:00:00", "version": "15 (720P / CA) ; 92 (UK)"},
+			{"category": "Rugby", "channel": "17", "description": "", "end_time": "2017-04-02 14:30:00", "id": "182043", "language": "ca", "name": "European Challenge Cup Rugby: Ospreys v Stade Francais", "network_id": "5851", "parent_id": "182042", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 12:30:00", "version": "15 (720P / CA) ; 92 (UK)"},
+			{"category": "WorldFootball", "channel": "17", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182195", "language": "ca", "name": "1.BL: Hoffenheim vs Bayern M&uuml;nchen", "network_id": "5851", "parent_id": "182193", "quality": "", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "91 (DE) ; 05 (HQLQ / US) ; 01 (720P / US)"}
+		],
+		"name": "Sportsnet World"
+	},
+	"18": {
+		"channel_id": "18",
+		"img": "https://iptvguide.netlify.com/img/Sportsnet360.png",
+		"items": [
+			{"category": "GeneralTV", "channel": "18", "description": "Bob McCown discusses the latest issues and stories from around the world of sports.", "end_time": "2017-03-31 19:00:00", "id": "179863", "language": "us", "name": "Prime Time Sports with Bob McCown", "network_id": "5863", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 16:00:00", "timered": "1", "version": null},
+			{"category": "WorldFootball", "channel": "18", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181741", "language": "ca", "name": "MLS: Chicago Fire vs Montreal Impact", "network_id": "5856", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "18 (CA) ; 42 (US)"}
+		],
+		"name": "Sportsnet360"
+	},
+	"19": {
+		"channel_id": "19",
+		"img": "https://iptvguide.netlify.com/img/SportsnetOntario.png",
+		"items": [
+			{"category": "Baseball", "channel": "19", "description": "MLB: Pittsburgh Pirates at Toronto Blue Jays", "end_time": "2017-03-31 22:00:00", "id": "182184", "language": "", "name": "MLB: Pittsburgh Pirates at Toronto Blue Jays", "network_id": "800", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-03-31 19:00:00", "timered": "3", "version": null},
+			{"category": "WorldFootball", "channel": "19", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181856", "language": "ca", "name": "EPL: Burnley vs Tottenham Hotspur", "network_id": "800", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "19 (HQLQ / CA) ; 76 (720P / CA) ; 48 (HQLQ / US) ; 80 (720P / US)"},
+			{"category": "NHL", "channel": "19", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181866", "language": "us", "name": "NHL: Ottawa Senators at Winnipeg Jets", "network_id": "800", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "19 (HQLQ / US) ; 76 (720P / US)"},
+			{"category": "WorldFootball", "channel": "19", "description": "", "end_time": "2017-04-02 10:30:00", "id": "181946", "language": "ca", "name": "EPL: Swansea City vs Middlesbrough", "network_id": "800", "parent_id": "181944", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "11 (HQLQ / US) ; 113 (UK) ; 01 (720P / US) ; 76 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "19", "description": "", "end_time": "2017-04-02 13:00:00", "id": "181950", "language": "ca", "name": "EPL: Arsenal vs Manchester City", "network_id": "800", "parent_id": "181949", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 11:00:00", "version": "76 (720P / CA) ; 113 (UK) ; 11 (HQLQ / US) ; 01 (720P / US)"},
+			{"category": "NHL", "channel": "19", "description": "Team NY Islanders Islanders playing against team Buffalo Sabres", "end_time": "2017-04-02 18:00:00", "id": "182131", "language": "us", "name": "NHL: NY Islanders Islanders at Buffalo Sabres", "network_id": "800", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 15:00:00", "version": "19 (HQLQ / US) ; 76 (720P / US)"},
+			{"category": "NHL", "channel": "19", "description": "Team San Jose Sharks playing against team Vancouver Canucks", "end_time": "2017-04-02 22:00:00", "id": "182136", "language": "us", "name": "NHL: San Jose Sharks at Vancouver Canucks", "network_id": "800", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 19:00:00", "version": "19 (HQLQ / US) ; 76 (720P / US)"}
+		],
+		"name": "Sportsnet Ontario"
+	},
+	"2": {
+		"channel_id": "2",
+		"img": "https://iptvguide.netlify.com/img/ESPN.png",
+		"items": [
+			{"category": "NBA", "channel": "2", "description": "NBA: San Antonio Spurs at Oklahoma City Thunder", "end_time": "2017-03-31 22:30:00", "id": "182151", "language": "us", "name": "NBA: San Antonio Spurs at Oklahoma City Thunder", "network_id": "4898", "parent_id": "0", "quality": "hqlq", "runtime": "150", "time": "2017-03-31 20:00:00", "version": "02 (HQLQ / US) ; 04 (720P / US)"},
+			{"category": "NBA", "channel": "2", "description": "NBA: Houston Rockets at Golden State Warriors", "end_time": "2017-04-01 01:30:00", "id": "182154", "language": "us", "name": "NBA: Houston Rockets at Golden State Warriors", "network_id": "4898", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 22:30:00", "version": "02 (HQLQ / US) ; 04 (720P / US)"},
+			{"category": "Golf", "channel": "2", "description": "", "end_time": "2017-04-05 17:00:00", "id": "182174", "language": "us", "name": "PGA Tour: Masters Par 3 Contest", "network_id": "4898", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-05 15:00:00", "version": null}
+		],
+		"name": "ESPN"
+	},
+	"20": {
+		"channel_id": "20",
+		"img": "https://iptvguide.netlify.com/img/SNET1.png",
+		"items": [
+			{"category": "NBA", "channel": "20", "description": "NBA: Indiana Pacers at Toronto Raptors", "end_time": "2017-03-31 22:00:00", "id": "182144", "language": "us", "name": "NBA: Indiana Pacers at Toronto Raptors", "network_id": "800", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 19:00:00", "timered": "3", "version": "20 (HQLQ / US) ; 77 (720P / US)"},
+			{"category": "WorldFootball", "channel": "20", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181864", "language": "ca", "name": "EPL: Leicester City vs Stoke City", "network_id": "804", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "20 (HQLQ / CA) ; 77 (720P / CA) ; 82 (720P / US) ; 50 (HQLQ / US)"},
+			{"category": "NHL", "channel": "20", "description": "", "end_time": "2017-04-01 16:00:00", "id": "181848", "language": "us", "name": "NHL: Florida Panthers at Boston Bruins", "network_id": "804", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 13:00:00", "version": "20 (HQLQ / US) ; 77 (720P / US)"},
+			{"category": "NBA", "channel": "20", "description": "NBA: Philadelphia 76ers at Toronto Raptors", "end_time": "2017-04-02 21:00:00", "id": "182123", "language": "us", "name": "NBA: Philadelphia 76ers at Toronto Raptors", "network_id": "804", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 18:00:00", "version": "20 (HQLQ / US) ; 77 (720P / US)"}
+		],
+		"name": "SNET1"
+	},
+	"21": {
+		"channel_id": "21",
+		"img": "https://iptvguide.netlify.com/img/TSN.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "21", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181837", "language": "ca", "name": "EPL: Chelsea vs Crystal Palace", "network_id": "795", "parent_id": "181834", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "01 (720P / US) ; 78 (720P / CA) ; 11 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "21", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181842", "language": "ca", "name": "EPL: Southampton vs AFC Bournemouth", "network_id": "795", "parent_id": "181840", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "91 (UK) ; 34 (HQLQ / US) ; 39 (720P / US) ; 78 (720P / CA)"},
+			{"category": "Curling", "channel": "21", "description": "", "end_time": "2017-04-01 19:00:00", "id": "181722", "language": "ca", "name": "World Men's Curling Championship: Switzerland vs Canada", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 16:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "21", "description": "", "end_time": "2017-04-02 00:00:00", "id": "181739", "language": "ca", "name": "MLS: Vancouver Whitecaps vs LA Galaxy", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 22:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA) ; 41 (US)"},
+			{"category": "Curling", "channel": "21", "description": "", "end_time": "2017-04-02 14:00:00", "id": "181724", "language": "ca", "name": "World Men's Curling Championship: Russia vs Canada", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 11:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "NASCAR", "channel": "21", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181662", "language": "ca", "name": "NASCAR Cup Series: STP 500", "network_id": "795", "parent_id": "181660", "quality": "hqlq", "runtime": "240", "time": "2017-04-02 14:00:00", "version": "05 (HQLQ / US) ; 10 (720P / US) ; 107 (UK) ; 89 (DE) ; 78 (720P / CA)"},
+			{"category": "Curling", "channel": "21", "description": "", "end_time": "2017-04-03 00:00:00", "id": "181726", "language": "ca", "name": "World Men's Curling Championship: Canada vs Sweden", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 21:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "Tennis", "channel": "21", "description": "", "end_time": "2017-04-03 19:00:00", "id": "182056", "language": "ca", "name": "World Men's Curling Championship: Scotland vs Canada", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-03 16:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "Curling", "channel": "21", "description": "", "end_time": "2017-04-04 00:00:00", "id": "182058", "language": "ca", "name": "World Men's Curling Championship: Canada vs USA", "network_id": "795", "parent_id": "182052", "quality": "hqlq", "runtime": "180", "time": "2017-04-03 21:00:00", "version": "11 (US) ; 78 (720P / CA)"},
+			{"category": "Tennis", "channel": "21", "description": "", "end_time": "2017-04-04 19:00:00", "id": "182060", "language": "ca", "name": "World Men's Curling Championship: Canada vs China", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-04 16:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "Tennis", "channel": "21", "description": "", "end_time": "2017-04-05 00:00:00", "id": "182062", "language": "ca", "name": "World Men's Curling Championship: Germany vs Canada", "network_id": "795", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-04 21:00:00", "version": "21 (HQLQ / CA) ; 78 (720P / CA)"}
+		],
+		"name": "TSN"
+	},
+	"22": {
+		"channel_id": "22",
+		"img": "https://iptvguide.netlify.com/img/UnivisionDeportes.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "22", "description": "", "end_time": "2017-04-01 01:00:00", "id": "182215", "language": "es", "name": "Liga MX: Veracruz v Cruz Azul", "network_id": "6408", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-03-31 23:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "22", "description": "", "end_time": "2017-04-01 15:15:00", "id": "181905", "language": "es", "name": "PL: Boavista vs Rio Ave", "network_id": "6429", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 13:15:00", "version": null},
+			{"category": "WorldFootball", "channel": "22", "description": "", "end_time": "2017-04-01 23:00:00", "id": "182090", "language": "es", "name": "Liga MX: Tigres UANL vs Le&oacute;n", "network_id": "6431", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 21:00:00", "version": null}
+		],
+		"name": "Univision Deportes"
+	},
+	"23": {
+		"channel_id": "23",
+		"img": "https://iptvguide.netlify.com/img/ESPNDeportes.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-03-31 23:45:00", "id": "181873", "language": "es", "name": "Friendly: Mexico Legends vs La Liga Legends", "network_id": "6432", "parent_id": "181871", "quality": "hqlq", "runtime": "120", "time": "2017-03-31 21:45:00", "version": "72 (720P / US) ; 46 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-01 12:15:00", "id": "181876", "language": "es", "name": "La Liga: Osasuna vs Athletic Club", "network_id": "6432", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 10:15:00", "version": null},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181881", "language": "es", "name": "La Liga: Real Sociedad vs Legan&eacute;s", "network_id": "6432", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "23 (ES) ; 117 (UK)"},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-01 16:45:00", "id": "181885", "language": "es", "name": "La Liga:  M&aacute;laga vs Atl&eacute;tico Madrid", "network_id": "6432", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 14:45:00", "version": "23 (ES) ; 117 (UK)"},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-01 21:00:00", "id": "182088", "language": "es", "name": "Liga MX: Chiapas vs Pumas UNAM", "network_id": "6431", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 19:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-02 12:15:00", "id": "181957", "language": "es", "name": "La Liga: Real Madrid vs Deportivo Alav&eacute;s", "network_id": "6432", "parent_id": "181955", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 10:15:00", "version": "46 (HQLQ / US) ; 114 (UK) ; 72 (720P / ES) ; 39 (720P / US)"},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-02 14:30:00", "id": "181960", "language": "es", "name": "La Liga: Valencia vs Deportivo La Coru&ntilde;a", "network_id": "6432", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 12:30:00", "version": "23 (HQLQ / ES) ; 114 (UK) ; 72 (720P / ES)"},
+			{"category": "WorldFootball", "channel": "23", "description": "", "end_time": "2017-04-02 16:45:00", "id": "181964", "language": "es", "name": "La Liga: Granada vs Barcelona", "network_id": "6432", "parent_id": "181963", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "113 (UK) ; 72 (720P / ES) ; 46 (HQLQ / US) ; 39 (720P / US)"}
+		],
+		"name": "ESPN Deportes"
+	},
+	"24": {
+		"channel_id": "24",
+		"img": "https://iptvguide.netlify.com/img/ComedyCentral.png",
+		"items": [
+			{"category": "Boxing+MMA", "channel": "24", "description": "", "end_time": "2017-03-31 23:00:00", "id": "182212", "language": "us", "name": "Bellator 175: Rampage vs. King Mo 2", "network_id": "6280", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-03-31 21:00:00", "version": "24 (720P / US) ; 25 (HQLQ / US)"}
+		],
+		"name": "Comedy Central"
+	},
+	"25": {
+		"channel_id": "25",
+		"img": "https://iptvguide.netlify.com/img/Spike.png",
+		"items": [
+			{"category": "Boxing+MMA", "channel": "25", "description": "", "end_time": "2017-03-31 23:00:00", "id": "182213", "language": "us", "name": "Bellator 175: Rampage vs. King Mo 2", "network_id": "6280", "parent_id": "182212", "quality": "hqlq", "runtime": "120", "time": "2017-03-31 21:00:00", "version": "24 (720P / US)"}
+		],
+		"name": "Spike"
+	},
+	"26": {
+		"channel_id": "26",
+		"img": "https://iptvguide.netlify.com/img/USA.png",
+		"items": [
+			{"category": "NBA", "channel": "26", "description": "NBA: Orlando Magic at New York Knicks", "end_time": "2018-01-02 22:30:00", "id": "166007", "language": "us", "name": "NBA: Orlando Magic at New York Knicks", "network_id": "6217", "parent_id": "165995", "quality": "720p", "runtime": "180", "time": "2018-01-02 19:30:00", "version": "06 (HQLQ / US)"}
+		],
+		"name": "USA"
+	},
+	"27": {
+		"channel_id": "27",
+		"img": "https://iptvguide.netlify.com/img/A&amp;E.png",
+		"items": [
+			{"category": "NBA", "channel": "27", "description": "NBA: Utah Jazz at Brooklyn Nets", "end_time": "2018-01-02 22:30:00", "id": "166004", "language": "us", "name": "NBA: Utah Jazz at Brooklyn Nets", "network_id": "6214", "parent_id": "165994", "quality": "720p", "runtime": "180", "time": "2018-01-02 19:30:00", "version": "07 (HQLQ / US)"}
+		],
+		"name": "A&amp;E"
+	},
+	"28": {
+		"channel_id": "28",
+		"img": "https://iptvguide.netlify.com/img/TBS.png",
+		"items": [
+			{"category": "NBA", "channel": "28", "description": "NBA: Charlotte Hornets at Chicago Bulls", "end_time": "2018-01-02 23:00:00", "id": "166000", "language": "us", "name": "NBA: Charlotte Hornets at Chicago Bulls", "network_id": "5381", "parent_id": "165996", "quality": "720p", "runtime": "180", "time": "2018-01-02 20:00:00", "version": "08 (HQLQ / US)"}
+		],
+		"name": "TBS"
+	},
+	"29": {
+		"channel_id": "29",
+		"img": "https://iptvguide.netlify.com/img/TNT.png",
+		"items": [
+			{"category": "NBA", "channel": "29", "description": "NBA: Oklahoma City Thunder at Milwaukee Bucks", "end_time": "2018-01-02 22:00:00", "id": "166001", "language": "us", "name": "NBA: Oklahoma City Thunder at Milwaukee Bucks", "network_id": "5962", "parent_id": "165993", "quality": "720p", "runtime": "180", "time": "2018-01-02 19:00:00", "version": " (HQLQ / US)"}
+		],
+		"name": "TNT"
+	},
+	"3": {
+		"channel_id": "3",
+		"img": "https://iptvguide.netlify.com/img/ESPN2.png",
+		"items": [
+			{"category": "NHL", "channel": "3", "description": "Team New Jersey Devils playing against team NY Islanders Islanders", "end_time": "2017-03-31 22:30:00", "id": "182162", "language": "us", "name": "NHL: New Jersey Devils at NY Islanders Islanders", "network_id": "6050", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-03-31 19:30:00", "version": null},
+			{"category": "Tennis", "channel": "3", "description": "", "end_time": "2017-04-01 15:30:00", "id": "181710", "language": "us", "name": "Tennis: WTA Miami Final", "network_id": "4901", "parent_id": "0", "quality": "hqlq", "runtime": "150", "time": "2017-04-01 13:00:00", "version": "03 (HQLQ / US) ; 04 (720P / US)"},
+			{"category": "Tennis", "channel": "3", "description": "", "end_time": "2017-04-02 15:30:00", "id": "181716", "language": "us", "name": "Tennis: ATP Miami Final", "network_id": "4901", "parent_id": "0", "quality": "hqlq", "runtime": "150", "time": "2017-04-02 13:00:00", "version": "03 (HQLQ / US) ; 115 (UK) ; 04 (720P / US) ; 16 (CA)"},
+			{"category": "WorldFootball", "channel": "3", "description": "", "end_time": "2017-04-02 23:00:00", "id": "181771", "language": "us", "name": "MLS: Portland Timbers vs New England", "network_id": "4901", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 21:00:00", "version": null}
+		],
+		"name": "ESPN2"
+	},
+	"31": {
+		"channel_id": "31",
+		"img": "https://iptvguide.netlify.com/img/CartoonNetwork.png",
+		"items": [
+			{"category": "NBA", "channel": "31", "description": "NBA: Washington Wizards at Houston Rockets", "end_time": "2018-01-02 23:00:00", "id": "166002", "language": "us", "name": "NBA: Washington Wizards at Houston Rockets", "network_id": "6218", "parent_id": "165997", "quality": "720p", "runtime": "180", "time": "2018-01-02 20:00:00", "version": "11 (HQLQ / US)"}
+		],
+		"name": "Cartoon Network"
+	},
+	"32": {
+		"channel_id": "32",
+		"img": "https://iptvguide.netlify.com/img/HGTV.png",
+		"items": [
+			{"category": "NBA", "channel": "32", "description": "NBA: New Orleans Pelicans at Cleveland Cavaliers", "end_time": "2018-01-02 22:00:00", "id": "166005", "language": "us", "name": "NBA: New Orleans Pelicans at Cleveland Cavaliers", "network_id": "6213", "parent_id": "165992", "quality": "720p", "runtime": "180", "time": "2018-01-02 19:00:00", "version": "12 (HQLQ / US)"},
+			{"category": "NBA", "channel": "32", "description": "NBA: Denver Nuggets at Golden State Warriors", "end_time": "2018-01-03 01:30:00", "id": "166003", "language": "us", "name": "NBA: Denver Nuggets at Golden State Warriors", "network_id": "6223", "parent_id": "165998", "quality": "720p", "runtime": "180", "time": "2018-01-02 22:30:00", "version": "12 (HQLQ / US)"}
+		],
+		"name": "HGTV"
+	},
+	"33": {
+		"channel_id": "33",
+		"img": "https://iptvguide.netlify.com/img/CNN.png",
+		"items": [
+			{"category": "NBA", "channel": "33", "description": "NBA: Phoenix Suns at Los Angeles Clippers", "end_time": "2018-01-03 01:30:00", "id": "166006", "language": "us", "name": "NBA: Phoenix Suns at Los Angeles Clippers", "network_id": "6221", "parent_id": "165999", "quality": "720p", "runtime": "180", "time": "2018-01-02 22:30:00", "version": "13 (HQLQ / US)"}
+		],
+		"name": "CNN"
+	},
+	"34": {
+		"channel_id": "34",
+		"img": "https://iptvguide.netlify.com/img/NBC.png",
+		"items": [
+			{"category": "GeneralTV", "channel": "34", "description": "", "end_time": "2017-04-01 00:30:00", "id": "179899", "language": "us", "name": "The Tonight Show Starring Jimmy Fallon", "network_id": "3927", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-03-31 23:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "34", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181851", "language": "us", "name": "EPL: Manchester United vs West Bromwich Albion", "network_id": "4045", "parent_id": "181850", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "39 (720P / US)"},
+			{"category": "WorldFootball", "channel": "34", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181843", "language": "us", "name": "EPL: Southampton vs AFC Bournemouth", "network_id": "3927", "parent_id": "181840", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "91 (UK) ; 21 (HQLQ / CA) ; 39 (720P / US) ; 78 (720P / CA)"},
+			{"category": "Golf", "channel": "34", "description": "", "end_time": "2017-04-01 18:00:00", "id": "181879", "language": "us", "name": "PGA Tour: Shell Houston Open, Round 3", "network_id": "3927", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 15:00:00", "version": "34 (US) ; 116 (US)"},
+			{"category": "NHL", "channel": "34", "description": "Team Boston Bruins playing against team Chicago Blackhawks", "end_time": "2017-04-02 15:00:00", "id": "182129", "language": "us", "name": "NHL: Boston Bruins at Chicago Blackhawks", "network_id": "3927", "parent_id": "0", "quality": "hqlq", "runtime": "150", "time": "2017-04-02 12:30:00", "version": null},
+			{"category": "Golf", "channel": "34", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181896", "language": "us", "name": "PGA Tour: Shell Houston Open, Final Round", "network_id": "3927", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 15:00:00", "version": "34 (US) ; 116 (US)"}
+		],
+		"name": "NBC"
+	},
+	"35": {
+		"channel_id": "35",
+		"img": "https://iptvguide.netlify.com/img/CBS.png",
+		"items": [
+			{"category": "GeneralTV", "channel": "35", "description": "", "end_time": "2017-04-01 00:30:00", "id": "179889", "language": "us", "name": "The Late Show With Stephen Colbert", "network_id": "3928", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-03-31 23:30:00", "version": null}
+		],
+		"name": "CBS"
+	},
+	"36": {
+		"channel_id": "36",
+		"img": "https://iptvguide.netlify.com/img/ABC.png",
+		"items": [
+			{"category": "GeneralTV", "channel": "36", "description": "", "end_time": "2017-04-01 00:30:00", "id": "179839", "language": "us", "name": "Jimmy Kimmel Live ", "network_id": "3929", "parent_id": "0", "quality": "hqlq", "runtime": "60", "time": "2017-03-31 23:30:00", "version": null},
+			{"category": "NBA", "channel": "36", "description": "NBA: Boston Celtics at New York Knicks", "end_time": "2017-04-02 15:30:00", "id": "182114", "language": "us", "name": "NBA: Boston Celtics at New York Knicks", "network_id": "3929", "parent_id": "0", "quality": "hqlq", "runtime": "150", "time": "2017-04-02 13:00:00", "version": null},
+			{"category": "NBA", "channel": "36", "description": "NBA: Utah Jazz at San Antonio Spurs", "end_time": "2017-04-02 18:30:00", "id": "182118", "language": "us", "name": "NBA: Utah Jazz at San Antonio Spurs", "network_id": "3929", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 15:30:00", "version": null}
+		],
+		"name": "ABC"
+	},
+	"37": {
+		"channel_id": "37",
+		"img": "https://iptvguide.netlify.com/img/FOX.png",
+		"items": [
+			{"category": "NASCAR", "channel": "37", "description": "", "end_time": "2017-04-01 15:00:00", "id": "181659", "language": "us", "name": "NASCAR Camping World Truck Series: Alpha Energy Solutions 250, Prerace", "network_id": "3932", "parent_id": "0", "quality": "", "runtime": "30", "time": "2017-04-01 14:30:00", "version": null},
+			{"category": "NASCAR", "channel": "37", "description": "", "end_time": "2017-04-01 17:30:00", "id": "181658", "language": "us", "name": "NASCAR Camping World Truck Series: Alpha Energy Solutions 250", "network_id": "3932", "parent_id": "0", "quality": "", "runtime": "150", "time": "2017-04-01 15:00:00", "version": null}
+		],
+		"name": "FOX"
+	},
+	"38": {
+		"channel_id": "38",
+		"img": "https://iptvguide.netlify.com/img/Viceland.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "38", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181890", "language": "us", "name": "EFL: Brentford FC vs Bristol City FC", "network_id": "4217", "parent_id": "181889", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "46 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "38", "description": "", "end_time": "2017-04-01 14:00:00", "id": "181892", "language": "us", "name": "Serie A: Sassuolo vs Lazio", "network_id": "4217", "parent_id": "181891", "quality": "720p", "runtime": "120", "time": "2017-04-01 12:00:00", "version": "46 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "38", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181915", "language": "us", "name": "Coupe de Ligue: Monaco vs PSG", "network_id": "4217", "parent_id": "181914", "quality": "720p", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "46 (HQLQ / US)"}
+		],
+		"name": "Viceland"
+	},
+	"39": {
+		"channel_id": "39",
+		"img": "https://iptvguide.netlify.com/img/CNBC.png",
+		"items": [
+			{"category": "NBA", "channel": "39", "description": "NBA: Sacramento Kings at New Orleans Pelicans", "end_time": "2017-03-31 23:00:00", "id": "182148", "language": "us", "name": "NBA: Sacramento Kings at New Orleans Pelicans", "network_id": "6222", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 20:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "39", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181850", "language": "us", "name": "EPL: Manchester United vs West Bromwich Albion", "network_id": "4045", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "39 (720P / US) ; 34 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "39", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181840", "language": "us", "name": "EPL: Southampton vs AFC Bournemouth", "network_id": "3927", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "39 (720P / US) ; 91 (UK) ; 34 (HQLQ / US) ; 21 (HQLQ / CA) ; 78 (720P / CA)"},
+			{"category": "NBA", "channel": "39", "description": "", "end_time": "2017-04-01 20:00:00", "id": "181838", "language": "us", "name": "NBA: Atlanta Hawks at Chicago Bulls", "network_id": "6213", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 17:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "39", "description": "", "end_time": "2017-04-02 12:15:00", "id": "181955", "language": "us", "name": "La Liga: Real Madrid vs Deportivo Alav&eacute;s", "network_id": "4217", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-02 10:15:00", "version": "39 (720P / US) ; 23 (HQLQ / ES) ; 46 (HQLQ / US) ; 114 (UK) ; 72 (720P / ES)"},
+			{"category": "WorldFootball", "channel": "39", "description": "", "end_time": "2017-04-02 16:45:00", "id": "181963", "language": "us", "name": "La Liga: Granada vs Barcelona", "network_id": "4217", "parent_id": "0", "quality": "720p", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "39 (720P / US) ; 23 (HQLQ / ES) ; 113 (UK) ; 72 (720P / ES) ; 46 (HQLQ / US)"},
+			{"category": "NBA", "channel": "39", "description": "NBA: Chicago Bulls at New Orleans Pelicans", "end_time": "2017-04-02 21:00:00", "id": "182119", "language": "us", "name": "NBA: Chicago Bulls at New Orleans Pelicans", "network_id": "4263", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null}
+		],
+		"name": "CNBC"
+	},
+	"4": {
+		"channel_id": "4",
+		"img": "https://iptvguide.netlify.com/img/ESPNU.png",
+		"items": [
+			{"category": "NBA", "channel": "4", "description": "NBA: San Antonio Spurs at Oklahoma City Thunder", "end_time": "2017-03-31 22:30:00", "id": "182156", "language": "us", "name": "NBA: San Antonio Spurs at Oklahoma City Thunder", "network_id": "4898", "parent_id": "182151", "quality": "720p", "runtime": "150", "time": "2017-03-31 20:00:00", "version": "02 (HQLQ / US)"},
+			{"category": "NBA", "channel": "4", "description": "NBA: Houston Rockets at Golden State Warriors", "end_time": "2017-04-01 01:30:00", "id": "182157", "language": "us", "name": "NBA: Houston Rockets at Golden State Warriors", "network_id": "4898", "parent_id": "182154", "quality": "720p", "runtime": "180", "time": "2017-03-31 22:30:00", "version": "02 (HQLQ / US)"},
+			{"category": "Tennis", "channel": "4", "description": "", "end_time": "2017-04-01 15:30:00", "id": "181711", "language": "us", "name": "Tennis: WTA Miami Final", "network_id": "4901", "parent_id": "181710", "quality": "720p", "runtime": "150", "time": "2017-04-01 13:00:00", "version": "03 (HQLQ / US)"},
+			{"category": "Tennis", "channel": "4", "description": "", "end_time": "2017-04-02 15:30:00", "id": "181717", "language": "us", "name": "Tennis: ATP Miami Final", "network_id": "4901", "parent_id": "181716", "quality": "720p", "runtime": "150", "time": "2017-04-02 13:00:00", "version": "115 (UK) ; 16 (CA) ; 03 (HQLQ / US)"},
+			{"category": "NHL", "channel": "4", "description": "Team Nashville Predators playing against team St. Louis Blues", "end_time": "2017-04-02 19:00:00", "id": "182132", "language": "us", "name": "NHL: Nashville Predators at St. Louis Blues", "network_id": "6056", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 16:00:00", "version": null},
+			{"category": "NHL", "channel": "4", "description": "Team Anaheim Ducks playing against team Calgary Flames", "end_time": "2017-04-03 00:30:00", "id": "182137", "language": "us", "name": "NHL: Anaheim Ducks at Calgary Flames", "network_id": "6062", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 21:30:00", "version": null}
+		],
+		"name": "ESPNU"
+	},
+	"41": {
+		"channel_id": "41",
+		"img": "https://iptvguide.netlify.com/img/History.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "41", "description": "", "end_time": "2017-04-01 16:00:00", "id": "181764", "language": "us", "name": "MLS: New York City vs SJ Earthquakes", "network_id": "5905", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 14:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "41", "description": "", "end_time": "2017-04-01 21:00:00", "id": "181767", "language": "us", "name": "MLS: DC United vs Philadelphia Union", "network_id": "5907", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 19:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "41", "description": "", "end_time": "2017-04-02 00:00:00", "id": "181770", "language": "us", "name": "MLS: Vancouver Whitecaps vs LA Galaxy", "network_id": "5910", "parent_id": "181739", "quality": "", "runtime": "120", "time": "2017-04-01 22:00:00", "version": "78 (720P / CA) ; 21 (HQLQ / CA)"}
+		],
+		"name": "History"
+	},
+	"42": {
+		"channel_id": "42",
+		"img": "https://iptvguide.netlify.com/img/Discovery.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "42", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181765", "language": "us", "name": "MLS: Chicago Fire vs Montreal Impact", "network_id": "5906", "parent_id": "181741", "quality": "", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "18 (CA)"},
+			{"category": "WorldFootball", "channel": "42", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181768", "language": "us", "name": "MLS: Minnesota United vs Real Salt Lake", "network_id": "5908", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 20:00:00", "version": null}
+		],
+		"name": "Discovery"
+	},
+	"43": {
+		"channel_id": "43",
+		"img": "https://iptvguide.netlify.com/img/NatGeo.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "43", "description": "", "end_time": "2017-04-01 22:30:00", "id": "181769", "language": "us", "name": "MLS: Houston Dynamo vs New York RB", "network_id": "5909", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 20:30:00", "version": null}
+		],
+		"name": "Nat Geo"
+	},
+	"46": {
+		"channel_id": "46",
+		"img": "https://iptvguide.netlify.com/img/BeINSportUS.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-03-31 23:45:00", "id": "181871", "language": "us", "name": "Friendly: Mexico Legends vs La Liga Legends", "network_id": "4699", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-03-31 21:45:00", "version": "46 (HQLQ / US) ; 23 (HQLQ / ES) ; 72 (720P / US)"},
+			{"category": "MotorSports", "channel": "46", "description": "", "end_time": "2017-04-01 08:00:00", "id": "182050", "language": "us", "name": "Superbike WC: Aragon, Race 1", "network_id": "4699", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-01 07:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181889", "language": "us", "name": "EFL: Brentford FC vs Bristol City FC", "network_id": "4699", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "46 (HQLQ / US) ; 38 (720P / US)"},
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-04-01 14:00:00", "id": "181891", "language": "us", "name": "Serie A: Sassuolo vs Lazio", "network_id": "4699", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 12:00:00", "version": "46 (HQLQ / US) ; 38 (720P / US)"},
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181914", "language": "us", "name": "Coupe de Ligue: Monaco vs PSG", "network_id": "4699", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 15:00:00", "version": "46 (HQLQ / US) ; 38 (720P / US)"},
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-04-01 21:00:00", "id": "182049", "language": "us", "name": "NASL: NY Cosmos vs Miami", "network_id": "4699", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 19:00:00", "version": null},
+			{"category": "MotorSports", "channel": "46", "description": "", "end_time": "2017-04-02 08:00:00", "id": "182051", "language": "us", "name": "Superbike WC: Aragon, Race 2", "network_id": "4699", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-02 07:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-04-02 12:15:00", "id": "181956", "language": "us", "name": "La Liga: Real Madrid vs Deportivo Alav&eacute;s", "network_id": "4699", "parent_id": "181955", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 10:15:00", "version": "23 (HQLQ / ES) ; 114 (UK) ; 72 (720P / ES) ; 39 (720P / US)"},
+			{"category": "WorldFootball", "channel": "46", "description": "", "end_time": "2017-04-02 16:45:00", "id": "181965", "language": "us", "name": "La Liga: Granada vs Barcelona", "network_id": "4699", "parent_id": "181963", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "23 (HQLQ / ES) ; 113 (UK) ; 72 (720P / ES) ; 39 (720P / US)"}
+		],
+		"name": "BeIN Sport US"
+	},
+	"47": {
+		"channel_id": "47",
+		"img": "https://iptvguide.netlify.com/img/AMC.png",
+		"items": [
+			{"category": "NBA", "channel": "47", "description": "NBA: Philadelphia 76ers at Cleveland Cavaliers", "end_time": "2017-03-31 22:30:00", "id": "182147", "language": "us", "name": "NBA: Philadelphia 76ers at Cleveland Cavaliers", "network_id": "6214", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 19:30:00", "version": "47 (HQLQ / US) ; 79 (720P / US)"},
+			{"category": "WorldFootball", "channel": "47", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181629", "language": "us", "name": "1.BL: Bayern M&uuml;nchen vs Augsburg", "network_id": "4700", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 09:30:00", "version": "47 (HQLQ / US) ; 79 (720P / US)"},
+			{"category": "Rugby", "channel": "47", "description": "", "end_time": "2017-04-01 14:00:00", "id": "182026", "language": "us", "name": "Super League Rugby: Catalans Dragons v Wakefield Trinity", "network_id": "4700", "parent_id": "182025", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 12:00:00", "version": "115 (UK) ; 79 (720P / US)"},
+			{"category": "NHL", "channel": "47", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181862", "language": "us", "name": "NHL: New Jersey Devils at Philadelphia Flyers", "network_id": "6056", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "47 (HQLQ / US) ; 79 (720P / US)"},
+			{"category": "NBA", "channel": "47", "description": "", "end_time": "2017-04-02 01:00:00", "id": "181846", "language": "us", "name": "NBA: Phoenix Suns at Portland Trail Blazers", "network_id": "6219", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 22:00:00", "version": "47 (HQLQ / US) ; 79 (720P / US)"},
+			{"category": "WorldFootball", "channel": "47", "description": "", "end_time": "2017-04-02 09:30:00", "id": "182111", "language": "us", "name": "SPL: Hearts vs Celtic", "network_id": "6625", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 07:30:00", "version": "47 (HQLQ / US) ; 79 (720P / US) ; 114 (UK)"},
+			{"category": "WorldFootball", "channel": "47", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182191", "language": "us", "name": "1.BL: K&ouml;ln vs Eintracht Frankfurt", "network_id": "4700", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "47 (HQLQ / US) ; 79 (720P / US)"}
+		],
+		"name": "AMC"
+	},
+	"48": {
+		"channel_id": "48",
+		"img": "https://iptvguide.netlify.com/img/HBO.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "48", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182077", "language": "us", "name": "EPL: Burnley vs Tottenham Hotspur", "network_id": "4616", "parent_id": "181856", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "76 (720P / CA) ; 80 (720P / US) ; 19 (HQLQ / CA)"}
+		],
+		"name": "HBO"
+	},
+	"49": {
+		"channel_id": "49",
+		"img": "https://iptvguide.netlify.com/img/HBOComedy.png",
+		"items": [
+			{"category": "NHL", "channel": "49", "description": "Team Columbus Blue Jackets playing against team Chicago Blackhawks", "end_time": "2017-03-31 23:30:00", "id": "182163", "language": "us", "name": "NHL: Columbus Blue Jackets at Chicago Blackhawks", "network_id": "4745", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 20:30:00", "version": "49 (HQLQ / US) ; 81 (720P / US)"},
+			{"category": "Rugby", "channel": "49", "description": "", "end_time": "2017-04-01 04:30:00", "id": "182007", "language": "us", "name": "AFL: GWS Giants v Gold Coast Suns", "network_id": "4700", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 01:30:00", "version": "49 (HQLQ / US) ; 81 (720P / US)"},
+			{"category": "Rugby", "channel": "49", "description": "", "end_time": "2017-04-01 06:30:00", "id": "181931", "language": "us", "name": "NRL: Storm v Panthers", "network_id": "4700", "parent_id": "181930", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 04:30:00", "version": "107 (UK) ; 81 (720P / US)"},
+			{"category": "WorldFootball", "channel": "49", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182079", "language": "us", "name": "EPL: Goal Rush", "network_id": "4617", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "49 (HQLQ / US) ; 81 (720P / US)"},
+			{"category": "NHL", "channel": "49", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181854", "language": "us", "name": "NHL: Minnesota Wild at Nashville Predators", "network_id": "6051", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 14:00:00", "version": "49 (HQLQ / US) ; 81 (720P / US)"},
+			{"category": "Rugby", "channel": "49", "description": "", "end_time": "2017-04-02 02:00:00", "id": "182010", "language": "us", "name": "AFL: Geelong v North Melbourne", "network_id": "4700", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 23:00:00", "version": "49 (HQLQ / US) ; 81 (720P / US)"}
+		],
+		"name": "HBO Comedy"
+	},
+	"5": {
+		"channel_id": "5",
+		"img": "https://iptvguide.netlify.com/img/FS1.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "5", "description": "", "end_time": "2017-03-31 21:30:00", "id": "181732", "language": "us", "name": "MLS: Toronto FC vs Sporting Kansas City", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-03-31 19:30:00", "version": "05 (US) ; 17 (CA)"},
+			{"category": "WorldFootball", "channel": "5", "description": "", "end_time": "2017-04-01 00:00:00", "id": "181734", "language": "us", "name": "MLS: Seattle Sounders vs Atlanta United", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-03-31 22:00:00", "version": null},
+			{"category": "NASCAR", "channel": "5", "description": "", "end_time": "2017-04-01 11:00:00", "id": "181655", "language": "us", "name": "NASCAR Cup Series: STP 500, Practice", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-01 10:00:00", "version": null},
+			{"category": "NASCAR", "channel": "5", "description": "", "end_time": "2017-04-01 12:30:00", "id": "181656", "language": "us", "name": "NASCAR Camping World Truck Series: Alpha Energy Solutions 250, Qualifying", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "90", "time": "2017-04-01 11:00:00", "version": null},
+			{"category": "NASCAR", "channel": "5", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181657", "language": "us", "name": "NASCAR Cup Series: STP 500, Final Practice", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-01 13:30:00", "version": null},
+			{"category": "MotorSports", "channel": "5", "description": "", "end_time": "2017-04-01 19:00:00", "id": "181736", "language": "us", "name": "Formula E: Mexico", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "90", "time": "2017-04-01 17:30:00", "version": null},
+			{"category": "MotorSports", "channel": "5", "description": "", "end_time": "2017-04-01 20:00:00", "id": "182180", "language": "us", "name": "NHRA Drag Racing: DENSO Spark Plugs Nationals, Qualifying", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-01 19:00:00", "version": null},
+			{"category": "MotorSports", "channel": "5", "description": "", "end_time": "2017-04-01 23:00:00", "id": "181737", "language": "us", "name": "Supercross: St. Louis", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 20:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "5", "description": "", "end_time": "2017-04-02 11:30:00", "id": "181642", "language": "us", "name": "1.BL: Ingolstadt vs Mainz 05", "network_id": "4913", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 09:30:00", "version": "05 (HQLQ / US) ; 89 (DE) ; 10 (720P / US)"},
+			{"category": "NASCAR", "channel": "5", "description": "", "end_time": "2017-04-02 14:00:00", "id": "181666", "language": "us", "name": "NASCAR Cup Series: STP 500, Prerace", "network_id": "4913", "parent_id": "0", "quality": "hqlq", "runtime": "90", "time": "2017-04-02 12:30:00", "version": "05 (HQLQ / US) ; 10 (720P / US)"},
+			{"category": "NASCAR", "channel": "5", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181660", "language": "us", "name": "NASCAR Cup Series: STP 500", "network_id": "4913", "parent_id": "0", "quality": "hqlq", "runtime": "240", "time": "2017-04-02 14:00:00", "version": "05 (HQLQ / US) ; 21 (HQLQ / CA) ; 10 (720P / US) ; 107 (UK) ; 89 (DE) ; 78 (720P / CA)"},
+			{"category": "MotorSports", "channel": "5", "description": "", "end_time": "2017-04-02 21:00:00", "id": "181738", "language": "us", "name": "NHRA Drag Racing: DENSO Spark Plugs Nationals", "network_id": "4913", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "5", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182193", "language": "us", "name": "1.BL: Hoffenheim vs Bayern M&uuml;nchen", "network_id": "4913", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "05 (HQLQ / US) ; 91 (DE) ; 01 (720P / US) ; 17 (CA)"}
+		],
+		"name": "FS1"
+	},
+	"50": {
+		"channel_id": "50",
+		"img": "https://iptvguide.netlify.com/img/HBOSignature.png",
+		"items": [
+			{"category": "NBA", "channel": "50", "description": "NBA: Orlando Magic at Boston Celtics", "end_time": "2017-03-31 22:30:00", "id": "182146", "language": "us", "name": "NBA: Orlando Magic at Boston Celtics", "network_id": "6216", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 19:30:00", "version": "50 (HQLQ / US) ; 82 (720P / US)"},
+			{"category": "WorldFootball", "channel": "50", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182081", "language": "us", "name": "EPL: Leicester City vs Stoke City", "network_id": "4618", "parent_id": "181864", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "77 (720P / CA) ; 82 (720P / US) ; 20 (HQLQ / CA)"},
+			{"category": "NBA", "channel": "50", "description": "NBA: Indiana Pacers at Cleveland Cavaliers", "end_time": "2017-04-02 21:00:00", "id": "182120", "language": "us", "name": "NBA: Indiana Pacers at Cleveland Cavaliers", "network_id": "6222", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 18:00:00", "version": "50 (HQLQ / US) ; 82 (720P / US)"}
+		],
+		"name": "HBO Signature"
+	},
+	"51": {
+		"channel_id": "51",
+		"img": "https://iptvguide.netlify.com/img/HBOZone.png",
+		"items": [
+			{"category": "NHL", "channel": "51", "description": "Team Pittsburgh Penguins playing against team NY Rangers Rangers", "end_time": "2017-03-31 22:00:00", "id": "182161", "language": "us", "name": "NHL: Pittsburgh Penguins at NY Rangers Rangers", "network_id": "6049", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 19:00:00", "timered": "1", "version": "51 (HQLQ / US) ; 83 (720P / US)"},
+			{"category": "WorldFootball", "channel": "51", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182083", "language": "us", "name": "EPL: Hull City vs West Ham", "network_id": "4619", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "51 (HQLQ / US) ; 83 (720P / US)"}
+		],
+		"name": "HBO Zone"
+	},
+	"53": {
+		"channel_id": "53",
+		"img": "https://iptvguide.netlify.com/img/ActionMaxHDEast.png",
+		"items": [
+			{"category": "NBA", "channel": "53", "description": "NBA: New York Knicks at Miami Heat", "end_time": "2017-03-31 23:00:00", "id": "182149", "language": "us", "name": "NBA: New York Knicks at Miami Heat", "network_id": "6223", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 20:00:00", "version": "53 (HQLQ / US) ; 84 (720P / US)"},
+			{"category": "WorldFootball", "channel": "53", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182085", "language": "us", "name": "EPL: Watford vs Sunderland", "network_id": "4620", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "53 (HQLQ / US) ; 84 (720P / US)"},
+			{"category": "NHL", "channel": "53", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181869", "language": "us", "name": "NHL: Montreal Canadiens at Tampa Bay Lightning", "network_id": "6054", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "53 (HQLQ / US) ; 84 (720P / US)"},
+			{"category": "NHL", "channel": "53", "description": "Team Carolina Hurricanes playing against team Pittsburgh Penguins", "end_time": "2017-04-02 20:00:00", "id": "182133", "language": "us", "name": "NHL: Carolina Hurricanes at Pittsburgh Penguins", "network_id": "4434", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 17:00:00", "version": "53 (HQLQ / US) ; 84 (720P / US)"},
+			{"category": "NBA", "channel": "53", "description": "NBA: Washington Wizards at Golden State Warriors", "end_time": "2017-04-02 23:00:00", "id": "182124", "language": "us", "name": "NBA: Washington Wizards at Golden State Warriors", "network_id": "6224", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 20:00:00", "version": "53 (HQLQ / US) ; 84 (720P / US)"}
+		],
+		"name": "ActionMax HD East"
+	},
+	"6": {
+		"channel_id": "6",
+		"img": "https://iptvguide.netlify.com/img/FS2.png",
+		"items": [
+			{"category": "NBA", "channel": "6", "description": "NBA: Denver Nuggets at Charlotte Hornets", "end_time": "2017-03-31 22:00:00", "id": "182145", "language": "us", "name": "NBA: Denver Nuggets at Charlotte Hornets", "network_id": "6211", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 19:00:00", "timered": "1", "version": null},
+			{"category": "Rugby", "channel": "6", "description": "", "end_time": "2017-04-01 01:30:00", "id": "182004", "language": "us", "name": "AFL: Hawthorn v Adelaide Crows", "network_id": "5169", "parent_id": "182003", "quality": "", "runtime": "180", "time": "2017-03-31 22:30:00", "version": "91 (UK)"},
+			{"category": "WorldFootball", "channel": "6", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181626", "language": "us", "name": "1.BL: Schalke 04 vs Borussia Dortmund", "network_id": "5169", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 09:30:00", "version": "06 (HQLQ / US) ; 07 (720P / US)"},
+			{"category": "WorldFootball", "channel": "6", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181631", "language": "us", "name": "1.BL: Eintracht Frankfurt vs Borussia M'gladbach", "network_id": "5169", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "06 (HQLQ / US) ; 07 (720P / US) ; 94 (DE)"},
+			{"category": "NBA", "channel": "6", "description": "", "end_time": "2017-04-01 21:00:00", "id": "181839", "language": "us", "name": "NBA: Orlando Magic at Brooklyn Nets", "network_id": "6215", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 18:00:00", "version": null},
+			{"category": "Rugby", "channel": "6", "description": "", "end_time": "2017-04-02 02:00:00", "id": "181934", "language": "us", "name": "NRL: Warriors v Titans", "network_id": "5169", "parent_id": "181933", "quality": "", "runtime": "120", "time": "2017-04-02 00:00:00", "version": "107 (UK)"},
+			{"category": "WorldFootball", "channel": "6", "description": "", "end_time": "2017-04-02 13:30:00", "id": "181645", "language": "us", "name": "1.BL: Bayer Leverkusen vs Wolfsburg", "network_id": "5169", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-02 11:30:00", "version": "06 (HQLQ / US) ; 88 (DE) ; 07 (720P / US)"},
+			{"category": "NBA", "channel": "6", "description": "NBA: Charlotte Hornets at Oklahoma City Thunder", "end_time": "2017-04-02 18:00:00", "id": "182115", "language": "us", "name": "NBA: Charlotte Hornets at Oklahoma City Thunder", "network_id": "5962", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 15:00:00", "version": null},
+			{"category": "NBA", "channel": "6", "description": "NBA: Atlanta Hawks at Brooklyn Nets", "end_time": "2017-04-02 21:00:00", "id": "182122", "language": "us", "name": "NBA: Atlanta Hawks at Brooklyn Nets", "network_id": "6219", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "6", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182187", "language": "us", "name": "1.BL: Borussia Dortmund vs Hamburger SV", "network_id": "5169", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "06 (HQLQ / US) ; 07 (720P / US) ; 89 (DE)"},
+			{"category": "NBA", "channel": "6", "description": "NBA: Orlando Magic at New York Knicks", "end_time": "2018-01-02 22:30:00", "id": "165995", "language": "us", "name": "NBA: Orlando Magic at New York Knicks", "network_id": "6217", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 19:30:00", "timered": "1", "version": "06 (HQLQ / US) ; 26 (720P / US)"}
+		],
+		"name": "FS2"
+	},
+	"62": {
+		"channel_id": "62",
+		"img": "https://iptvguide.netlify.com/img/ch62.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-01 09:00:00", "id": "181887", "language": "us", "name": "La Liga: Villarreal vs Eibar", "network_id": "6019", "parent_id": "181875", "quality": "", "runtime": "120", "time": "2017-04-01 07:00:00", "version": "114 (UK)"},
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-01 13:00:00", "id": "181895", "language": "us", "name": "Ligue 1: Marseille vs Dijon FCO", "network_id": "6019", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 11:00:00", "timered": "2", "version": null},
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-01 15:00:00", "id": "181888", "language": "us", "name": "Ligue 1: SC Bastia vs. Lille", "network_id": "6021", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 13:00:00", "timered": "2", "version": null},
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-02 08:30:00", "id": "182099", "language": "us", "name": "Serie A: Torino vs Udinese", "network_id": "6020", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 06:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-02 11:00:00", "id": "182100", "language": "us", "name": "Serie A: Pescara vs AC Milan", "network_id": "6024", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 09:00:00", "timered": "2", "version": null},
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-02 13:00:00", "id": "182103", "language": "us", "name": "Ligue 1:  Lorient vs Caen", "network_id": "6019", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 11:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "62", "description": "", "end_time": "2017-04-02 16:45:00", "id": "182105", "language": "us", "name": "Serie A:  Napoli vs. Juventus FC", "network_id": "6019", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "62 (US) ; 94 (UK)"}
+		],
+		"name": ""
+	},
+	"63": {
+		"channel_id": "63",
+		"img": "https://iptvguide.netlify.com/img/FoodNetwork.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "63", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181900", "language": "us", "name": "EFL:  Reading vs Leeds United", "network_id": "6020", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "63 (US) ; 113 (UK)"},
+			{"category": "WorldFootball", "channel": "63", "description": "", "end_time": "2017-04-01 16:45:00", "id": "181903", "language": "us", "name": "Serie A: AS Roma vs Empoli FC", "network_id": "6020", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 14:45:00", "version": null},
+			{"category": "WorldFootball", "channel": "63", "description": "", "end_time": "2017-04-02 11:00:00", "id": "182101", "language": "us", "name": "Ligue 1: Stade Rennais FC vs Olympique Lyonnais", "network_id": "6025", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 09:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "63", "description": "", "end_time": "2017-04-02 13:00:00", "id": "182104", "language": "us", "name": "Ligue 1:  FC Nantes vs. Angers SCO", "network_id": "6021", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 11:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "63", "description": "", "end_time": "2017-04-02 16:45:00", "id": "182107", "language": "us", "name": "Ligue 1:  Nice vs Bordeaux", "network_id": "6020", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 14:45:00", "version": null}
+		],
+		"name": "Food Network"
+	},
+	"7": {
+		"channel_id": "7",
+		"img": "https://iptvguide.netlify.com/img/NFLNetwork.png",
+		"items": [
+			{"category": "NHL", "channel": "7", "description": "Team St. Louis Blues playing against team Colorado Avalanche", "end_time": "2017-04-01 00:00:00", "id": "182165", "language": "us", "name": "NHL: St. Louis Blues at Colorado Avalanche", "network_id": "6054", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 21:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "7", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181627", "language": "us", "name": "1.BL: Schalke 04 vs Borussia Dortmund", "network_id": "5169", "parent_id": "181626", "quality": "720p", "runtime": "120", "time": "2017-04-01 09:30:00", "version": "06 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "7", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181632", "language": "us", "name": "1.BL: Eintracht Frankfurt vs Borussia M'gladbach", "network_id": "5169", "parent_id": "181631", "quality": "720p", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "94 (DE) ; 06 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "7", "description": "", "end_time": "2017-04-02 13:30:00", "id": "181646", "language": "us", "name": "1.BL: Bayer Leverkusen vs Wolfsburg", "network_id": "5169", "parent_id": "181645", "quality": "720p", "runtime": "120", "time": "2017-04-02 11:30:00", "version": "88 (DE) ; 06 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "7", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182188", "language": "us", "name": "1.BL: Borussia Dortmund vs Hamburger SV", "network_id": "5169", "parent_id": "182187", "quality": "720p", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "06 (HQLQ / US) ; 89 (DE)"},
+			{"category": "NBA", "channel": "7", "description": "NBA: Utah Jazz at Brooklyn Nets", "end_time": "2018-01-02 22:30:00", "id": "165994", "language": "us", "name": "NBA: Utah Jazz at Brooklyn Nets", "network_id": "6214", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 19:30:00", "version": "07 (HQLQ / US) ; 27 (720P / US)"}
+		],
+		"name": "NFL Network"
+	},
+	"70": {
+		"channel_id": "70",
+		"img": "https://iptvguide.netlify.com/img/USWest.png",
+		"items": [
+			{"category": "NHL", "channel": "70", "description": "Team Los Angeles Kings playing against team Vancouver Canucks", "end_time": "2017-04-01 01:00:00", "id": "182166", "language": "us", "name": "NHL: Los Angeles Kings at Vancouver Canucks", "network_id": "5977", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-03-31 22:00:00", "version": "70 (720P / US) ; 71 (HQLQ / US)"},
+			{"category": "NHL", "channel": "70", "description": "Team Philadelphia Flyers playing against team NY Rangers Rangers", "end_time": "2017-04-02 22:30:00", "id": "182143", "language": "us", "name": "NHL: Philadelphia Flyers at NY Rangers Rangers", "network_id": "3877", "parent_id": "182130", "quality": "720p", "runtime": "180", "time": "2017-04-02 19:30:00", "version": "11 (HQLQ / US)"},
+			{"category": "NHL", "channel": "70", "description": "Team Arizona Coyotes playing against team Los Angeles Kings", "end_time": "2017-04-03 01:30:00", "id": "182138", "language": "us", "name": "NHL: Arizona Coyotes at Los Angeles Kings", "network_id": "5977", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-04-02 22:30:00", "version": "70 (720P / US) ; 71 (HQLQ / US)"}
+		],
+		"name": "US West"
+	},
+	"71": {
+		"channel_id": "71",
+		"img": "https://iptvguide.netlify.com/img/USWest.png",
+		"items": [
+			{"category": "NHL", "channel": "71", "description": "Team Los Angeles Kings playing against team Vancouver Canucks", "end_time": "2017-04-01 01:00:00", "id": "182168", "language": "us", "name": "NHL: Los Angeles Kings at Vancouver Canucks", "network_id": "5977", "parent_id": "182166", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 22:00:00", "version": "70 (720P / US)"},
+			{"category": "WorldFootball", "channel": "71", "description": "", "end_time": "2017-04-01 18:00:00", "id": "181766", "language": "es", "name": "MLS: Columbus Crew vs Orlando City", "network_id": "5985", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 16:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "71", "description": "", "end_time": "2017-04-01 23:00:00", "id": "182089", "language": "es", "name": "Liga MX: \tMorelia vs Guadalajara", "network_id": "5984", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 21:00:00", "version": null},
+			{"category": "NBA", "channel": "71", "description": "NBA: Memphis Grizzlies at Los Angeles Lakers", "end_time": "2017-04-02 18:30:00", "id": "182116", "language": "us", "name": "NBA: Memphis Grizzlies at Los Angeles Lakers", "network_id": "5979", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 15:30:00", "version": "71 (HQLQ / US) ; 73 (720P / US)"},
+			{"category": "NHL", "channel": "71", "description": "Team Arizona Coyotes playing against team Los Angeles Kings", "end_time": "2017-04-03 01:30:00", "id": "182142", "language": "us", "name": "NHL: Arizona Coyotes at Los Angeles Kings", "network_id": "5977", "parent_id": "182138", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 22:30:00", "version": "70 (720P / US)"}
+		],
+		"name": "US West"
+	},
+	"72": {
+		"channel_id": "72",
+		"img": "https://iptvguide.netlify.com/img/USWest.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "72", "description": "", "end_time": "2017-03-31 23:45:00", "id": "181872", "language": "us", "name": "Friendly: Mexico Legends vs La Liga Legends", "network_id": "3860", "parent_id": "181871", "quality": "720p", "runtime": "120", "time": "2017-03-31 21:45:00", "version": "23 (HQLQ / ES) ; 46 (HQLQ / US)"},
+			{"category": "NBA", "channel": "72", "description": "", "end_time": "2017-04-01 18:30:00", "id": "181832", "language": "us", "name": "NBA: Los Angeles Lakers at Los Angeles Clippers", "network_id": "5979", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-04-01 15:30:00", "version": "72 (720P / US) ; 73 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "72", "description": "", "end_time": "2017-04-02 12:15:00", "id": "181958", "language": "es", "name": "La Liga: Real Madrid vs Deportivo Alav&eacute;s", "network_id": "3863", "parent_id": "181955", "quality": "720p", "runtime": "120", "time": "2017-04-02 10:15:00", "version": "23 (HQLQ / ES) ; 46 (HQLQ / US) ; 114 (UK) ; 39 (720P / US)"},
+			{"category": "WorldFootball", "channel": "72", "description": "", "end_time": "2017-04-02 14:30:00", "id": "181962", "language": "es", "name": "La Liga: Valencia vs Deportivo La Coru&ntilde;a", "network_id": "3863", "parent_id": "181960", "quality": "720p", "runtime": "120", "time": "2017-04-02 12:30:00", "version": "114 (UK) ; 23 (HQLQ / ES)"},
+			{"category": "WorldFootball", "channel": "72", "description": "", "end_time": "2017-04-02 16:45:00", "id": "181967", "language": "es", "name": "La Liga: Granada vs Barcelona", "network_id": "3863", "parent_id": "181963", "quality": "720p", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "23 (HQLQ / ES) ; 113 (UK) ; 46 (HQLQ / US) ; 39 (720P / US)"}
+		],
+		"name": "US West"
+	},
+	"73": {
+		"channel_id": "73",
+		"img": "https://iptvguide.netlify.com/img/SpectrumSportsnet.png",
+		"items": [
+			{"category": "Baseball", "channel": "73", "description": "MLB: Los Angeles Dodgers at Los Angeles Angels", "end_time": "2017-04-01 01:00:00", "id": "182186", "language": "us", "name": "MLB: Los Angeles Dodgers at Los Angeles Angels", "network_id": "5904", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 22:00:00", "version": null},
+			{"category": "NBA", "channel": "73", "description": "", "end_time": "2017-04-01 18:30:00", "id": "181833", "language": "us", "name": "NBA: Los Angeles Lakers at Los Angeles Clippers", "network_id": "5979", "parent_id": "181832", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 15:30:00", "version": "72 (720P / US)"},
+			{"category": "NBA", "channel": "73", "description": "NBA: Memphis Grizzlies at Los Angeles Lakers", "end_time": "2017-04-02 18:30:00", "id": "182126", "language": "us", "name": "NBA: Memphis Grizzlies at Los Angeles Lakers", "network_id": "5979", "parent_id": "182116", "quality": "720p", "runtime": "180", "time": "2017-04-02 15:30:00", "version": "71 (HQLQ / US)"}
+		],
+		"name": "Spectrum Sportsnet"
+	},
+	"74": {
+		"channel_id": "74",
+		"img": "https://iptvguide.netlify.com/img/MMATV01.png",
+		"items": [
+			{"category": "Boxing+MMA", "channel": "74", "description": "", "end_time": "2017-03-31 21:00:00", "id": "181969", "language": "us", "name": "Bellator 175 Prelims", "network_id": "6629", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-03-31 19:00:00", "version": null},
+			{"category": "Boxing+MMA", "channel": "74", "description": "", "end_time": "2017-03-31 23:00:00", "id": "181970", "language": "us", "name": "Bellator 175: Rampage vs King Mo 2", "network_id": "6628", "parent_id": "0", "quality": "hqlq", "runtime": "120", "time": "2017-03-31 21:00:00", "version": null},
+			{"category": "Boxing+MMA", "channel": "74", "description": "", "end_time": "2017-04-01 19:00:00", "id": "181972", "language": "us", "name": "Cage Warriors 82: Pimblett vs Narimani", "network_id": "5899", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-01 16:00:00", "version": null}
+		],
+		"name": "MMA TV 01"
+	},
+	"75": {
+		"channel_id": "75",
+		"img": "https://iptvguide.netlify.com/img/AXSTVHD.png",
+		"items": [
+			{"category": "Boxing+MMA", "channel": "75", "description": "", "end_time": "2017-04-01 00:00:00", "id": "181971", "language": "us", "name": "CES MMA 42: Curtis vs Santiago", "network_id": "5901", "parent_id": "0", "quality": "720p", "runtime": "180", "time": "2017-03-31 21:00:00", "version": null}
+		],
+		"name": "AXS TV HD"
+	},
+	"76": {
+		"channel_id": "76",
+		"img": "https://iptvguide.netlify.com/img/SportsnetOntario720P.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "76", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181857", "language": "ca", "name": "EPL: Burnley vs Tottenham Hotspur", "network_id": "800", "parent_id": "181856", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "48 (HQLQ / US) ; 80 (720P / US) ; 19 (HQLQ / CA)"},
+			{"category": "NHL", "channel": "76", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181867", "language": "us", "name": "NHL: Ottawa Senators at Winnipeg Jets", "network_id": "800", "parent_id": "181866", "quality": "720p", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "19 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "76", "description": "", "end_time": "2017-04-02 10:30:00", "id": "181947", "language": "ca", "name": "EPL: Swansea City vs Middlesbrough", "network_id": "800", "parent_id": "181944", "quality": "720p", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "19 (HQLQ / CA) ; 11 (HQLQ / US) ; 113 (UK) ; 01 (720P / US)"},
+			{"category": "WorldFootball", "channel": "76", "description": "", "end_time": "2017-04-02 13:00:00", "id": "181953", "language": "ca", "name": "EPL: Arsenal vs Manchester City", "network_id": "800", "parent_id": "181949", "quality": "720p", "runtime": "120", "time": "2017-04-02 11:00:00", "version": "113 (UK) ; 19 (HQLQ / CA) ; 11 (HQLQ / US) ; 01 (720P / US)"},
+			{"category": "NHL", "channel": "76", "description": "Team NY Islanders Islanders playing against team Buffalo Sabres", "end_time": "2017-04-02 18:00:00", "id": "182139", "language": "us", "name": "NHL: NY Islanders Islanders at Buffalo Sabres", "network_id": "800", "parent_id": "182131", "quality": "720p", "runtime": "180", "time": "2017-04-02 15:00:00", "version": "19 (HQLQ / US)"},
+			{"category": "NHL", "channel": "76", "description": "Team San Jose Sharks playing against team Vancouver Canucks", "end_time": "2017-04-02 22:00:00", "id": "182140", "language": "us", "name": "NHL: San Jose Sharks at Vancouver Canucks", "network_id": "800", "parent_id": "182136", "quality": "720p", "runtime": "180", "time": "2017-04-02 19:00:00", "version": "19 (HQLQ / US)"}
+		],
+		"name": "Sportsnet Ontario 720P"
+	},
+	"77": {
+		"channel_id": "77",
+		"img": "https://iptvguide.netlify.com/img/Sportsnet1720P.png",
+		"items": [
+			{"category": "NBA", "channel": "77", "description": "NBA: Indiana Pacers at Toronto Raptors", "end_time": "2017-03-31 22:00:00", "id": "182155", "language": "us", "name": "NBA: Indiana Pacers at Toronto Raptors", "network_id": "800", "parent_id": "182144", "quality": "720p", "runtime": "180", "time": "2017-03-31 19:00:00", "version": "20 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "77", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181865", "language": "ca", "name": "EPL: Leicester City vs Stoke City", "network_id": "804", "parent_id": "181864", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "82 (720P / US) ; 50 (HQLQ / US) ; 20 (HQLQ / CA)"},
+			{"category": "NHL", "channel": "77", "description": "", "end_time": "2017-04-01 16:00:00", "id": "181849", "language": "us", "name": "NHL: Florida Panthers at Boston Bruins", "network_id": "804", "parent_id": "181848", "quality": "720p", "runtime": "180", "time": "2017-04-01 13:00:00", "version": "20 (HQLQ / US)"},
+			{"category": "NBA", "channel": "77", "description": "NBA: Philadelphia 76ers at Toronto Raptors", "end_time": "2017-04-02 21:00:00", "id": "182125", "language": "us", "name": "NBA: Philadelphia 76ers at Toronto Raptors", "network_id": "804", "parent_id": "182123", "quality": "720p", "runtime": "180", "time": "2017-04-02 18:00:00", "version": "20 (HQLQ / US)"}
+		],
+		"name": "Sportsnet 1 720P"
+	},
+	"78": {
+		"channel_id": "78",
+		"img": "https://iptvguide.netlify.com/img/TSN1720P.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "78", "description": "", "end_time": "2017-04-01 12:00:00", "id": "181835", "language": "ca", "name": "EPL: Chelsea vs Crystal Palace", "network_id": "795", "parent_id": "181834", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "01 (720P / US) ; 21 (HQLQ / CA) ; 11 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "78", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181841", "language": "ca", "name": "EPL: Southampton vs AFC Bournemouth", "network_id": "795", "parent_id": "181840", "quality": "720p", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "91 (UK) ; 34 (HQLQ / US) ; 21 (HQLQ / CA) ; 39 (720P / US)"},
+			{"category": "Curling", "channel": "78", "description": "", "end_time": "2017-04-01 19:00:00", "id": "181723", "language": "ca", "name": "World Men's Curling Championship: Switzerland vs Canada", "network_id": "795", "parent_id": "181722", "quality": "720p", "runtime": "180", "time": "2017-04-01 16:00:00", "version": "21 (HQLQ / CA)"},
+			{"category": "WorldFootball", "channel": "78", "description": "", "end_time": "2017-04-02 00:00:00", "id": "181740", "language": "ca", "name": "MLS: Vancouver Whitecaps vs LA Galaxy", "network_id": "795", "parent_id": "181739", "quality": "720p", "runtime": "120", "time": "2017-04-01 22:00:00", "version": "21 (HQLQ / CA) ; 41 (US)"},
+			{"category": "Curling", "channel": "78", "description": "", "end_time": "2017-04-02 14:00:00", "id": "181725", "language": "ca", "name": "World Men's Curling Championship: Russia vs Canada", "network_id": "795", "parent_id": "181724", "quality": "720p", "runtime": "180", "time": "2017-04-02 11:00:00", "version": "21 (HQLQ / CA)"},
+			{"category": "NASCAR", "channel": "78", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181663", "language": "ca", "name": "NASCAR Cup Series: STP 500", "network_id": "795", "parent_id": "181660", "quality": "720p", "runtime": "240", "time": "2017-04-02 14:00:00", "version": "21 (HQLQ / CA) ; 05 (HQLQ / US) ; 10 (720P / US) ; 107 (UK) ; 89 (DE)"},
+			{"category": "Curling", "channel": "78", "description": "", "end_time": "2017-04-03 00:00:00", "id": "181727", "language": "ca", "name": "World Men's Curling Championship: Canada vs Sweden", "network_id": "795", "parent_id": "181726", "quality": "720p", "runtime": "180", "time": "2017-04-02 21:00:00", "version": "21 (HQLQ / CA)"},
+			{"category": "Tennis", "channel": "78", "description": "", "end_time": "2017-04-03 19:00:00", "id": "182057", "language": "ca", "name": "World Men's Curling Championship: Scotland vs Canada", "network_id": "795", "parent_id": "182056", "quality": "720p", "runtime": "180", "time": "2017-04-03 16:00:00", "version": "21 (HQLQ / CA)"},
+			{"category": "Curling", "channel": "78", "description": "", "end_time": "2017-04-04 00:00:00", "id": "182059", "language": "ca", "name": "World Men's Curling Championship: Canada vs USA", "network_id": "795", "parent_id": "182052", "quality": "720p", "runtime": "180", "time": "2017-04-03 21:00:00", "version": "21 (HQLQ / CA) ; 11 (US)"},
+			{"category": "Tennis", "channel": "78", "description": "", "end_time": "2017-04-04 19:00:00", "id": "182061", "language": "ca", "name": "World Men's Curling Championship: Canada vs China", "network_id": "795", "parent_id": "182060", "quality": "720p", "runtime": "180", "time": "2017-04-04 16:00:00", "version": "21 (HQLQ / CA)"},
+			{"category": "Tennis", "channel": "78", "description": "", "end_time": "2017-04-05 00:00:00", "id": "182063", "language": "ca", "name": "World Men's Curling Championship: Germany vs Canada", "network_id": "795", "parent_id": "182062", "quality": "720p", "runtime": "180", "time": "2017-04-04 21:00:00", "version": "21 (HQLQ / CA)"}
+		],
+		"name": "TSN1 720P"
+	},
+	"79": {
+		"channel_id": "79",
+		"img": "https://iptvguide.netlify.com/img/AMC720P.png",
+		"items": [
+			{"category": "NBA", "channel": "79", "description": "NBA: Philadelphia 76ers at Cleveland Cavaliers", "end_time": "2017-03-31 22:30:00", "id": "182158", "language": "us", "name": "NBA: Philadelphia 76ers at Cleveland Cavaliers", "network_id": "6214", "parent_id": "182147", "quality": "720p", "runtime": "180", "time": "2017-03-31 19:30:00", "version": "47 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "79", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181630", "language": "us", "name": "1.BL: Bayern M&uuml;nchen vs Augsburg", "network_id": "4700", "parent_id": "181629", "quality": "720p", "runtime": "120", "time": "2017-04-01 09:30:00", "version": "47 (HQLQ / US)"},
+			{"category": "Rugby", "channel": "79", "description": "", "end_time": "2017-04-01 14:00:00", "id": "182027", "language": "us", "name": "Super League Rugby: Catalans Dragons v Wakefield Trinity", "network_id": "4700", "parent_id": "182025", "quality": "720p", "runtime": "120", "time": "2017-04-01 12:00:00", "version": "115 (UK) ; 47 (HQLQ / US)"},
+			{"category": "NHL", "channel": "79", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181863", "language": "us", "name": "NHL: New Jersey Devils at Philadelphia Flyers", "network_id": "6056", "parent_id": "181862", "quality": "720p", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "47 (HQLQ / US)"},
+			{"category": "NBA", "channel": "79", "description": "", "end_time": "2017-04-02 01:00:00", "id": "181847", "language": "us", "name": "NBA: Phoenix Suns at Portland Trail Blazers", "network_id": "6219", "parent_id": "181846", "quality": "720p", "runtime": "180", "time": "2017-04-01 22:00:00", "version": "47 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "79", "description": "", "end_time": "2017-04-02 09:30:00", "id": "182112", "language": "us", "name": "SPL: Hearts vs Celtic", "network_id": "6625", "parent_id": "182111", "quality": "720p", "runtime": "120", "time": "2017-04-02 07:30:00", "version": "47 (HQLQ / US) ; 114 (UK)"},
+			{"category": "WorldFootball", "channel": "79", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182192", "language": "us", "name": "1.BL: K&ouml;ln vs Eintracht Frankfurt", "network_id": "4700", "parent_id": "182191", "quality": "720p", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "47 (HQLQ / US)"}
+		],
+		"name": "AMC 720P"
+	},
+	"8": {
+		"channel_id": "8",
+		"img": "https://iptvguide.netlify.com/img/NBATV.png",
+		"items": [
+			{"category": "NBA", "channel": "8", "description": "NBA: Dallas Mavericks at Memphis Grizzlies", "end_time": "2017-03-31 23:00:00", "id": "182152", "language": "us", "name": "NBA: Dallas Mavericks at Memphis Grizzlies", "network_id": "6219", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-03-31 20:00:00", "version": null},
+			{"category": "NBA", "channel": "8", "description": "NBA: Denver Nuggets at Miami Heat", "end_time": "2017-04-02 21:00:00", "id": "182121", "language": "us", "name": "NBA: Denver Nuggets at Miami Heat", "network_id": "5381", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2017-04-02 18:00:00", "version": null},
+			{"category": "NBA", "channel": "8", "description": "NBA: Charlotte Hornets at Chicago Bulls", "end_time": "2018-01-02 23:00:00", "id": "165996", "language": "us", "name": "NBA: Charlotte Hornets at Chicago Bulls", "network_id": "5381", "parent_id": "0", "quality": "hqlq", "runtime": "180", "time": "2018-01-02 20:00:00", "version": "08 (HQLQ / US) ; 28 (720P / US)"}
+		],
+		"name": "NBA TV"
+	},
+	"80": {
+		"channel_id": "80",
+		"img": "https://iptvguide.netlify.com/img/HBO720P.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "80", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182078", "language": "us", "name": "EPL: Burnley vs Tottenham Hotspur", "network_id": "4616", "parent_id": "181856", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "76 (720P / CA) ; 48 (HQLQ / US) ; 19 (HQLQ / CA)"}
+		],
+		"name": "HBO 720P"
+	},
+	"81": {
+		"channel_id": "81",
+		"img": "https://iptvguide.netlify.com/img/HBOComedy720P.png",
+		"items": [
+			{"category": "NHL", "channel": "81", "description": "Team Columbus Blue Jackets playing against team Chicago Blackhawks", "end_time": "2017-03-31 23:30:00", "id": "182170", "language": "us", "name": "NHL: Columbus Blue Jackets at Chicago Blackhawks", "network_id": "4745", "parent_id": "182163", "quality": "720p", "runtime": "180", "time": "2017-03-31 20:30:00", "version": "49 (HQLQ / US)"},
+			{"category": "Rugby", "channel": "81", "description": "", "end_time": "2017-04-01 04:30:00", "id": "182008", "language": "us", "name": "AFL: GWS Giants v Gold Coast Suns", "network_id": "4700", "parent_id": "182007", "quality": "720p", "runtime": "180", "time": "2017-04-01 01:30:00", "version": "49 (HQLQ / US)"},
+			{"category": "Rugby", "channel": "81", "description": "", "end_time": "2017-04-01 06:30:00", "id": "181932", "language": "us", "name": "NRL: Storm v Panthers", "network_id": "4700", "parent_id": "181930", "quality": "720p", "runtime": "120", "time": "2017-04-01 04:30:00", "version": "49 (HQLQ / US) ; 107 (UK)"},
+			{"category": "WorldFootball", "channel": "81", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182080", "language": "us", "name": "EPL: Goal Rush", "network_id": "4617", "parent_id": "182079", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "49 (HQLQ / US)"},
+			{"category": "NHL", "channel": "81", "description": "", "end_time": "2017-04-01 17:00:00", "id": "181855", "language": "us", "name": "NHL: Minnesota Wild at Nashville Predators", "network_id": "6051", "parent_id": "181854", "quality": "720p", "runtime": "180", "time": "2017-04-01 14:00:00", "version": "49 (HQLQ / US)"},
+			{"category": "Rugby", "channel": "81", "description": "", "end_time": "2017-04-02 02:00:00", "id": "182011", "language": "us", "name": "AFL: Geelong v North Melbourne", "network_id": "4700", "parent_id": "182010", "quality": "720p", "runtime": "180", "time": "2017-04-01 23:00:00", "version": "49 (HQLQ / US)"}
+		],
+		"name": "HBO Comedy 720P"
+	},
+	"82": {
+		"channel_id": "82",
+		"img": "https://iptvguide.netlify.com/img/HBOSignature720P.png",
+		"items": [
+			{"category": "NBA", "channel": "82", "description": "NBA: Orlando Magic at Boston Celtics", "end_time": "2017-03-31 22:30:00", "id": "182159", "language": "us", "name": "NBA: Orlando Magic at Boston Celtics", "network_id": "6216", "parent_id": "182146", "quality": "720p", "runtime": "180", "time": "2017-03-31 19:30:00", "version": "50 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "82", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182082", "language": "us", "name": "EPL: Leicester City vs Stoke City", "network_id": "5551", "parent_id": "181864", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "77 (720P / CA) ; 50 (HQLQ / US) ; 20 (HQLQ / CA)"},
+			{"category": "NBA", "channel": "82", "description": "NBA: Indiana Pacers at Cleveland Cavaliers", "end_time": "2017-04-02 21:00:00", "id": "182128", "language": "us", "name": "NBA: Indiana Pacers at Cleveland Cavaliers", "network_id": "6222", "parent_id": "182120", "quality": "720p", "runtime": "180", "time": "2017-04-02 18:00:00", "version": "50 (HQLQ / US)"}
+		],
+		"name": "HBO Signature 720P"
+	},
+	"83": {
+		"channel_id": "83",
+		"img": "https://iptvguide.netlify.com/img/HBOZone720P.png",
+		"items": [
+			{"category": "NHL", "channel": "83", "description": "Team Pittsburgh Penguins playing against team NY Rangers Rangers", "end_time": "2017-03-31 22:00:00", "id": "182169", "language": "us", "name": "NHL: Pittsburgh Penguins at NY Rangers Rangers", "network_id": "6049", "parent_id": "182161", "quality": "720p", "runtime": "180", "time": "2017-03-31 19:00:00", "version": "51 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "83", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182084", "language": "us", "name": "EPL: Hull City vs West Ham", "network_id": "5552", "parent_id": "182083", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "51 (HQLQ / US)"}
+		],
+		"name": "HBO Zone 720P"
+	},
+	"84": {
+		"channel_id": "84",
+		"img": "https://iptvguide.netlify.com/img/ActionMax720p.png",
+		"items": [
+			{"category": "NBA", "channel": "84", "description": "NBA: New York Knicks at Miami Heat", "end_time": "2017-03-31 23:00:00", "id": "182160", "language": "us", "name": "NBA: New York Knicks at Miami Heat", "network_id": "6625", "parent_id": "182149", "quality": "720p", "runtime": "180", "time": "2017-03-31 20:00:00", "version": "53 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "84", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182086", "language": "us", "name": "EPL: Watford vs Sunderland", "network_id": "6625", "parent_id": "182085", "quality": "720p", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "53 (HQLQ / US)"},
+			{"category": "NHL", "channel": "84", "description": "", "end_time": "2017-04-01 22:00:00", "id": "181870", "language": "us", "name": "NHL: Montreal Canadiens at Tampa Bay Lightning", "network_id": "6625", "parent_id": "181869", "quality": "720p", "runtime": "180", "time": "2017-04-01 19:00:00", "version": "53 (HQLQ / US)"},
+			{"category": "NHL", "channel": "84", "description": "Team Carolina Hurricanes playing against team Pittsburgh Penguins", "end_time": "2017-04-02 20:00:00", "id": "182141", "language": "us", "name": "NHL: Carolina Hurricanes at Pittsburgh Penguins", "network_id": "6625", "parent_id": "182133", "quality": "720p", "runtime": "180", "time": "2017-04-02 17:00:00", "version": "53 (HQLQ / US)"},
+			{"category": "NBA", "channel": "84", "description": "NBA: Washington Wizards at Golden State Warriors", "end_time": "2017-04-02 23:00:00", "id": "182127", "language": "us", "name": "NBA: Washington Wizards at Golden State Warriors", "network_id": "6625", "parent_id": "182124", "quality": "720p", "runtime": "180", "time": "2017-04-02 20:00:00", "version": "53 (HQLQ / US)"}
+		],
+		"name": "ActionMax 720p"
+	},
+	"88": {
+		"channel_id": "88",
+		"img": "https://iptvguide.netlify.com/img/EuroSat.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "88", "description": "", "end_time": "2017-04-02 09:30:00", "id": "181637", "language": "de", "name": "2.BL: Konferenz", "network_id": "3825", "parent_id": "0", "quality": "", "runtime": "150", "time": "2017-04-02 07:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "88", "description": "", "end_time": "2017-04-02 10:00:00", "id": "181638", "language": "de", "name": "2.BL: Alle Spiele, alle Tore", "network_id": "3825", "parent_id": "0", "quality": "", "runtime": "30", "time": "2017-04-02 09:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "88", "description": "", "end_time": "2017-04-02 13:30:00", "id": "181647", "language": "de", "name": "1.BL: Bayer Leverkusen vs Wolfsburg", "network_id": "3825", "parent_id": "181645", "quality": "", "runtime": "120", "time": "2017-04-02 11:30:00", "version": "06 (HQLQ / US) ; 07 (720P / US)"},
+			{"category": "WorldFootball", "channel": "88", "description": "", "end_time": "2017-04-02 15:00:00", "id": "181650", "language": "de", "name": "1.BL: Sky90", "network_id": "3825", "parent_id": "0", "quality": "", "runtime": "90", "time": "2017-04-02 13:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "88", "description": "", "end_time": "2017-04-04 13:30:00", "id": "182197", "language": "de", "name": "2.BL: Hannover 96 vs N&uuml;rnberg", "network_id": "3828", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 11:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "88", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182196", "language": "de", "name": "1.BL: Werder Bremen vs Schalke 04", "network_id": "3828", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 14:00:00", "version": null}
+		],
+		"name": "Euro Sat"
+	},
+	"89": {
+		"channel_id": "89",
+		"img": "https://iptvguide.netlify.com/img/ch89.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "89", "description": "", "end_time": "2017-04-02 09:30:00", "id": "181639", "language": "de", "name": "2.BL: Stuttgart vs Dynamo Dresden", "network_id": "3827", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 07:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "89", "description": "", "end_time": "2017-04-02 11:30:00", "id": "181644", "language": "de", "name": "1.BL: Ingolstadt vs Mainz 05", "network_id": "3826", "parent_id": "181642", "quality": "", "runtime": "120", "time": "2017-04-02 09:30:00", "timered": "2", "version": "05 (HQLQ / US) ; 10 (720P / US)"},
+			{"category": "NASCAR", "channel": "89", "description": "", "end_time": "2017-04-02 18:00:00", "id": "181664", "language": "de", "name": "NASCAR Cup Series: STP 500", "network_id": "5822", "parent_id": "181660", "quality": "", "runtime": "240", "time": "2017-04-02 14:00:00", "version": "21 (HQLQ / CA) ; 05 (HQLQ / US) ; 10 (720P / US) ; 107 (UK) ; 78 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "89", "description": "", "end_time": "2017-04-04 13:30:00", "id": "182198", "language": "de", "name": "2.BL: Arminia Bielefeld vs Fortuna D&uuml;sseldorf", "network_id": "3829", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 11:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "89", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182206", "language": "de", "name": "1.BL: Borussia Dortmund vs Hamburger SV", "network_id": "3827", "parent_id": "182187", "quality": "", "runtime": "120", "time": "2017-04-04 14:00:00", "timered": "2", "version": "06 (HQLQ / US) ; 07 (720P / US)"}
+		],
+		"name": ""
+	},
+	"9": {
+		"channel_id": "9",
+		"img": "https://iptvguide.netlify.com/img/MLBNetwork.png",
+		"items": [
+			{"category": "Baseball", "channel": "9", "description": "MLB: New York Yankees at Atlanta Braves", "end_time": "2017-03-31 22:30:00", "id": "182185", "language": "", "name": "MLB: New York Yankees at Atlanta Braves", "network_id": "5376", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-03-31 19:30:00", "version": null}
+		],
+		"name": "MLB Network"
+	},
+	"90": {
+		"channel_id": "90",
+		"img": "https://iptvguide.netlify.com/img/ch90.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "90", "description": "", "end_time": "2017-04-02 08:30:00", "id": "182095", "language": "nl", "name": "EDL: Vitesse vs NEC", "network_id": "3799", "parent_id": "182094", "quality": "", "runtime": "120", "time": "2017-04-02 06:30:00", "version": "117 (UK)"},
+			{"category": "WorldFootball", "channel": "90", "description": "", "end_time": "2017-04-02 10:30:00", "id": "182097", "language": "nl", "name": "EDL: Ajax vs Feyenoord", "network_id": "3799", "parent_id": "182096", "quality": "", "runtime": "120", "time": "2017-04-02 08:30:00", "version": "117 (UK)"},
+			{"category": "WorldFootball", "channel": "90", "description": "", "end_time": "2017-04-02 12:45:00", "id": "182098", "language": "nl", "name": "EDL: Twente vs Go Ahead Eagles", "network_id": "3799", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 10:45:00", "version": null}
+		],
+		"name": ""
+	},
+	"91": {
+		"channel_id": "91",
+		"img": "https://iptvguide.netlify.com/img/ch91.png",
+		"items": [
+			{"category": "Rugby", "channel": "91", "description": "", "end_time": "2017-04-01 01:30:00", "id": "182003", "language": "uk", "name": "AFL: Hawthorn v Adelaide Crows", "network_id": "3537", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-03-31 22:30:00", "timered": "1", "version": "91 (UK) ; 06 (US)"},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-01 04:30:00", "id": "181906", "language": "uk", "name": "A-League: Newcastle Jets vs Western Sydney Wanderers", "network_id": "3517", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 02:30:00", "timered": "1", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-01 06:45:00", "id": "181907", "language": "uk", "name": "A-League: Sydney FC vs Melbourne City", "network_id": "3517", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 04:45:00", "timered": "1", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-01 09:00:00", "id": "181621", "language": "de", "name": "2.BL: Hannover 96 vs Union Berlin", "network_id": "3827", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 07:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181634", "language": "de", "name": "1.BL: Hamburger SV vs K&ouml;ln", "network_id": "3827", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 09:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181844", "language": "uk", "name": "EPL: Southampton vs AFC Bournemouth", "network_id": "3514", "parent_id": "181840", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "34 (HQLQ / US) ; 21 (HQLQ / CA) ; 39 (720P / US) ; 78 (720P / CA)"},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-01 19:00:00", "id": "182214", "language": "uk", "name": "Match of the Day", "network_id": "3291", "parent_id": "0", "quality": "", "runtime": "90", "time": "2017-04-01 17:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-02 05:00:00", "id": "182108", "language": "uk", "name": "A-League: Melbourne Victory vs Wellington Phoenix", "network_id": "3517", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 03:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-02 07:00:00", "id": "182109", "language": "uk", "name": "A-League:  \tBrisbane Roar vs Central Coast Mariners", "network_id": "3517", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 05:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-02 09:30:00", "id": "181640", "language": "de", "name": "2.BL: Kaiserslautern vs Eintracht Braunschweig", "network_id": "3828", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 07:30:00", "timered": "2", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-02 13:00:00", "id": "182102", "language": "uk", "name": "Ligue 1:  Montpellier vs Toulouse", "network_id": "3515", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 11:00:00", "version": null},
+			{"category": "GeneralTV", "channel": "91", "description": "", "end_time": "2017-04-03 16:00:00", "id": "182073", "language": "uk", "name": "Weightlifting EC: Croatia, Women's 58kg", "network_id": "3511", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-03 14:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-04 13:30:00", "id": "182200", "language": "de", "name": "2.BL: Konferenz", "network_id": "3826", "parent_id": "0", "quality": "", "runtime": "150", "time": "2017-04-04 11:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-04 13:45:00", "id": "182201", "language": "de", "name": "2.BL: Alle Spiele, alle Tore", "network_id": "3826", "parent_id": "0", "quality": "", "runtime": "15", "time": "2017-04-04 13:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "91", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182204", "language": "de", "name": "1.BL: Hoffenheim vs Bayern M&uuml;nchen", "network_id": "3826", "parent_id": "182193", "quality": "", "runtime": "120", "time": "2017-04-04 14:00:00", "version": "05 (HQLQ / US) ; 01 (720P / US) ; 17 (CA)"}
+		],
+		"name": ""
+	},
+	"92": {
+		"channel_id": "92",
+		"img": "https://iptvguide.netlify.com/img/ch92.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-01 09:00:00", "id": "181619", "language": "de", "name": "2.BL: Konferenz", "network_id": "3826", "parent_id": "0", "quality": "", "runtime": "150", "time": "2017-04-01 06:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-01 09:15:00", "id": "181620", "language": "de", "name": "2.BL: Alle Spiele, alle Tore", "network_id": "3826", "parent_id": "0", "quality": "", "runtime": "15", "time": "2017-04-01 09:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181636", "language": "de", "name": "1.BL: Freiburg vs Werder Bremen", "network_id": "3830", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 09:30:00", "timered": "2", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-01 12:30:00", "id": "181625", "language": "de", "name": "1.BL: Alle Spiele, alle Tore", "network_id": "3826", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-01 11:30:00", "timered": "1", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-01 17:30:00", "id": "181904", "language": "uk", "name": "PL: Benfica vs Porto", "network_id": "3521", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 15:30:00", "version": null},
+			{"category": "Rugby", "channel": "92", "description": "", "end_time": "2017-04-02 04:00:00", "id": "182012", "language": "uk", "name": "AFL: Melbourne v Carlton", "network_id": "3522", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 01:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-02 09:30:00", "id": "181641", "language": "de", "name": "2.BL: Heidenheim vs Greuther F&uuml;rth", "network_id": "3829", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 07:30:00", "version": null},
+			{"category": "Rugby", "channel": "92", "description": "", "end_time": "2017-04-02 12:00:00", "id": "182039", "language": "uk", "name": "European Champions Cup Rugby: Clermont Auvergne v Toulon", "network_id": "3537", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 10:00:00", "version": "92 (UK) ; 17 (HQLQ / CA) ; 15 (720P / CA)"},
+			{"category": "Rugby", "channel": "92", "description": "", "end_time": "2017-04-02 14:30:00", "id": "182042", "language": "uk", "name": "European Challenge Cup Rugby: Ospreys v Stade Francais", "network_id": "3537", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 12:30:00", "version": "92 (UK) ; 15 (720P / CA) ; 17 (HQLQ / CA)"},
+			{"category": "Tennis", "channel": "92", "description": "", "end_time": "2017-04-03 20:00:00", "id": "182064", "language": "uk", "name": "Tennis: WTA Charleston, Early Round", "network_id": "3537", "parent_id": "182053", "quality": "", "runtime": "480", "time": "2017-04-03 12:00:00", "version": "13 (US)"},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-04 13:30:00", "id": "182199", "language": "de", "name": "2.BL: St. Pauli vs Sandhausen", "network_id": "3830", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 11:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182202", "language": "de", "name": "1.BL: Konferenz", "network_id": "3825", "parent_id": "0", "quality": "", "runtime": "150", "time": "2017-04-04 13:30:00", "timered": "2", "version": null},
+			{"category": "WorldFootball", "channel": "92", "description": "", "end_time": "2017-04-04 17:00:00", "id": "182203", "language": "de", "name": "1.BL: Alle Spiele, alle Tore", "network_id": "3825", "parent_id": "0", "quality": "", "runtime": "60", "time": "2017-04-04 16:00:00", "version": null}
+		],
+		"name": ""
+	},
+	"93": {
+		"channel_id": "93",
+		"img": "https://iptvguide.netlify.com/img/ch93.png",
+		"items": [
+			{"category": "WorldFootball", "channel": "93", "description": "", "end_time": "2017-04-01 09:15:00", "id": "181910", "language": "uk", "name": "Conference: Wrexham vs Tranmere Rovers", "network_id": "3514", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 07:15:00", "version": null},
+			{"category": "Rugby", "channel": "93", "description": "", "end_time": "2017-04-01 12:00:00", "id": "182020", "language": "uk", "name": "European Champions Cup Rugby: Leinster v Wasps", "network_id": "3537", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 10:00:00", "version": "93 (UK) ; 17 (HQLQ / CA) ; 15 (720P / CA)"},
+			{"category": "MotorSports", "channel": "93", "description": "", "end_time": "2017-04-02 13:15:00", "id": "181742", "language": "uk", "name": "British Touring Car Championship", "network_id": "3296", "parent_id": "0", "quality": "", "runtime": "480", "time": "2017-04-02 05:15:00", "version": null}
+		],
+		"name": ""
+	},
+	"94": {
+		"channel_id": "94",
+		"img": "https://iptvguide.netlify.com/img/ch94.png",
+		"items": [
+			{"category": "Rugby", "channel": "94", "description": "", "end_time": "2017-04-01 07:30:00", "id": "182009", "language": "uk", "name": "AFL: West Coast v St Kilda", "network_id": "3515", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 04:30:00", "timered": "1", "version": null},
+			{"category": "WorldFootball", "channel": "94", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181624", "language": "de", "name": "1.BL: Konferenz", "network_id": "3825", "parent_id": "0", "quality": "", "runtime": "150", "time": "2017-04-01 09:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "94", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181633", "language": "de", "name": "1.BL: Eintracht Frankfurt vs Borussia M'gladbach", "network_id": "3825", "parent_id": "181631", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": "07 (720P / US) ; 06 (HQLQ / US)"},
+			{"category": "WorldFootball", "channel": "94", "description": "", "end_time": "2017-04-01 16:45:00", "id": "181918", "language": "nl", "name": "EDL: Heracles vs Heerenveen", "network_id": "3801", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 14:45:00", "version": null},
+			{"category": "GeneralTV", "channel": "94", "description": "", "end_time": "2017-04-02 05:00:00", "id": "181754", "language": "uk", "name": "Cycling: Tour of Flanders", "network_id": "3511", "parent_id": "0", "quality": "", "runtime": "105", "time": "2017-04-02 03:15:00", "version": null},
+			{"category": "WorldFootball", "channel": "94", "description": "", "end_time": "2017-04-02 16:45:00", "id": "182106", "language": "uk", "name": "Serie A:  Napoli vs. Juventus FC", "network_id": "3517", "parent_id": "182105", "quality": "", "runtime": "120", "time": "2017-04-02 14:45:00", "version": "62 (US)"},
+			{"category": "Tennis", "channel": "94", "description": "", "end_time": "2017-04-03 20:00:00", "id": "182065", "language": "uk", "name": "Tennis: WTA Monterrey, Early Round", "network_id": "3515", "parent_id": "0", "quality": "", "runtime": "195", "time": "2017-04-03 16:45:00", "version": null},
+			{"category": "Tennis", "channel": "94", "description": "", "end_time": "2017-04-04 00:00:00", "id": "182066", "language": "uk", "name": "Tennis: WTA Monterrey, Early Round", "network_id": "3515", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-03 22:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "94", "description": "", "end_time": "2017-04-04 13:30:00", "id": "182207", "language": "de", "name": "2.BL: Karlsruher SC vs W&uuml;rzburger Kickers", "network_id": "3831", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 11:30:00", "version": null},
+			{"category": "Tennis", "channel": "94", "description": "", "end_time": "2017-04-04 18:00:00", "id": "182067", "language": "uk", "name": "Tennis: WTA Monterrey, Early Round, JIP", "network_id": "3515", "parent_id": "0", "quality": "", "runtime": "270", "time": "2017-04-04 13:30:00", "timered": "2", "version": null},
+			{"category": "Tennis", "channel": "94", "description": "", "end_time": "2017-04-05 00:00:00", "id": "182068", "language": "uk", "name": "Tennis: WTA Monterrey, Early Round", "network_id": "3515", "parent_id": "0", "quality": "", "runtime": "360", "time": "2017-04-04 18:00:00", "version": null}
+		],
+		"name": ""
+	},
+	"95": {
+		"channel_id": "95",
+		"img": "https://iptvguide.netlify.com/img/ch95.png",
+		"items": [
+			{"category": "Snooker", "channel": "95", "description": "", "end_time": "2017-04-01 05:00:00", "id": "181748", "language": "uk", "name": "Snooker: China Open", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 02:00:00", "timered": "1", "version": null},
+			{"category": "Snooker", "channel": "95", "description": "", "end_time": "2017-04-01 11:00:00", "id": "181749", "language": "uk", "name": "Snooker: China Open", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-01 08:00:00", "version": null},
+			{"category": "WorldFootball", "channel": "95", "description": "", "end_time": "2017-04-01 14:30:00", "id": "181917", "language": "nl", "name": "EDL: AZ vs Groningen", "network_id": "3801", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 12:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "95", "description": "", "end_time": "2017-04-01 16:45:00", "id": "181924", "language": "nl", "name": "EDL: Utrecht vs Willem II", "network_id": "3802", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 14:45:00", "version": null},
+			{"category": "Snooker", "channel": "95", "description": "", "end_time": "2017-04-02 05:00:00", "id": "181753", "language": "uk", "name": "Snooker: China Open", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 02:00:00", "version": null},
+			{"category": "MotorSports", "channel": "95", "description": "", "end_time": "2017-04-02 07:45:00", "id": "181761", "language": "nl", "name": "Blancpain GT Sprint: Misano Italy", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "75", "time": "2017-04-02 06:30:00", "version": null},
+			{"category": "GeneralTV", "channel": "95", "description": "", "end_time": "2017-04-02 11:00:00", "id": "181757", "language": "uk", "name": "Cycling: Tour of Flanders", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "195", "time": "2017-04-02 07:45:00", "version": null},
+			{"category": "GeneralTV", "channel": "95", "description": "", "end_time": "2017-04-03 11:15:00", "id": "182071", "language": "uk", "name": "Cycling: Basque Tour", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "105", "time": "2017-04-03 09:30:00", "version": null},
+			{"category": "GeneralTV", "channel": "95", "description": "", "end_time": "2017-04-03 13:15:00", "id": "182072", "language": "uk", "name": "Weightlifting EC: Croatia, Women's 53kg", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-03 11:15:00", "version": null},
+			{"category": "GeneralTV", "channel": "95", "description": "", "end_time": "2017-04-04 11:15:00", "id": "182074", "language": "uk", "name": "Cycling: Basque Tour", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "105", "time": "2017-04-04 09:30:00", "version": null},
+			{"category": "GeneralTV", "channel": "95", "description": "", "end_time": "2017-04-04 13:15:00", "id": "182075", "language": "uk", "name": "Weightlifting EC: Croatia, Women's 63kg", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 11:15:00", "version": null},
+			{"category": "GeneralTV", "channel": "95", "description": "", "end_time": "2017-04-04 16:00:00", "id": "182076", "language": "uk", "name": "Weightlifting EC: Croatia, Men's 69kg", "network_id": "3789", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-04 14:00:00", "version": null}
+		],
+		"name": ""
+	},
+	"96": {
+		"channel_id": "96",
+		"img": "https://iptvguide.netlify.com/img/ch96.png",
+		"items": [
+			{"category": "GeneralTV", "channel": "96", "description": "", "end_time": "2017-04-01 08:00:00", "id": "181750", "language": "nl", "name": "Figure Skating WC: Helsinki, Men's Free", "network_id": "3790", "parent_id": "0", "quality": "", "runtime": "255", "time": "2017-04-01 03:45:00", "timered": "1", "version": null},
+			{"category": "WorldFootball", "channel": "96", "description": "", "end_time": "2017-04-01 11:30:00", "id": "181635", "language": "nl", "name": "1.BL: RB Leipzig vs Darmstadt 98", "network_id": "3278", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 09:30:00", "version": null},
+			{"category": "WorldFootball", "channel": "96", "description": "", "end_time": "2017-04-01 15:45:00", "id": "181923", "language": "nl", "name": "EDL: Sparta Rotterdam vs PSV", "network_id": "3799", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-01 13:45:00", "version": null},
+			{"category": "GeneralTV", "channel": "96", "description": "", "end_time": "2017-04-02 07:30:00", "id": "181760", "language": "uk", "name": "Weightlifting EC: Croatia, Women's 48kg", "network_id": "3790", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 05:30:00", "version": null},
+			{"category": "Snooker", "channel": "96", "description": "", "end_time": "2017-04-02 10:30:00", "id": "181758", "language": "uk", "name": "Snooker: China Open", "network_id": "3790", "parent_id": "0", "quality": "", "runtime": "180", "time": "2017-04-02 07:30:00", "version": null},
+			{"category": "GeneralTV", "channel": "96", "description": "", "end_time": "2017-04-02 13:00:00", "id": "181759", "language": "uk", "name": "Weightlifting EC: Croatia, Men's 56kg", "network_id": "3790", "parent_id": "0", "quality": "", "runtime": "120", "time": "2017-04-02 11:00:00", "version": null}
+		],
+		"name": ""
+	}
+}

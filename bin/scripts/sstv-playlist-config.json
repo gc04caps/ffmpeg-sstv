@@ -1,0 +1,14 @@
+{
+	"username": "USERNAME",
+	"password": "PASSWORD",
+	"quality": 1,
+	"checkChannel": true,
+	"includeBadChannels": true,
+	"httpTimeoutChannel": 0.5,
+	"minQuality": 0,
+	"guideLookAheadMinutes": 5,
+	"guideMaxFutureMinutes": 240,
+	"server": "SERVER",
+	"rtmp": false,
+	"service": "SERVICE"
+}

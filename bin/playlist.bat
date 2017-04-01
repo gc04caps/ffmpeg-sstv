@@ -1,0 +1,2 @@
+call scripts\playlist.py
+

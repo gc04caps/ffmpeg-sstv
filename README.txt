@@ -1,0 +1,1 @@
+go to the bin folder, open that readme
